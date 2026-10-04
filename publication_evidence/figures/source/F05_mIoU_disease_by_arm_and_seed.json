@@ -1,0 +1,132 @@
+{
+  "compute_profile_id": "CP-02",
+  "kind": "dots",
+  "points": [
+    {
+      "arm": "default",
+      "family": "segnext-l",
+      "hi": 43.26707454023414,
+      "lo": 38.03934850460367,
+      "point": 40.93205772315705,
+      "run_id": "RUN-002",
+      "seed": 0
+    },
+    {
+      "arm": "default",
+      "family": "segnext-l",
+      "hi": 42.240144997792555,
+      "lo": 36.95524768150699,
+      "point": 39.90723747534781,
+      "run_id": "RUN-003",
+      "seed": 1
+    },
+    {
+      "arm": "default",
+      "family": "segnext-l",
+      "hi": 44.039916605207566,
+      "lo": 38.79885150264187,
+      "point": 42.17646612326576,
+      "run_id": "RUN-004",
+      "seed": 2
+    },
+    {
+      "arm": "sanitized",
+      "family": "segnext-l",
+      "hi": 42.84883637273058,
+      "lo": 37.24139690552886,
+      "point": 40.18669287052374,
+      "run_id": "RUN-005",
+      "seed": 0
+    },
+    {
+      "arm": "sanitized",
+      "family": "segnext-l",
+      "hi": 40.77771979508435,
+      "lo": 35.644709192215984,
+      "point": 38.19830898705294,
+      "run_id": "RUN-006",
+      "seed": 1
+    },
+    {
+      "arm": "sanitized",
+      "family": "segnext-l",
+      "hi": 41.54493706399176,
+      "lo": 36.50187641996598,
+      "point": 39.21107282303029,
+      "run_id": "RUN-007",
+      "seed": 2
+    },
+    {
+      "arm": "sizectrl",
+      "family": "segnext-l",
+      "hi": 44.177305086075016,
+      "lo": 38.778406896882885,
+      "point": 41.90067143610779,
+      "run_id": "RUN-008",
+      "seed": 0
+    },
+    {
+      "arm": "sizectrl",
+      "family": "segnext-l",
+      "hi": 41.909353274347,
+      "lo": 36.629642477559244,
+      "point": 39.35461509658551,
+      "run_id": "RUN-009",
+      "seed": 1
+    },
+    {
+      "arm": "sizectrl",
+      "family": "segnext-l",
+      "hi": 42.41478212744755,
+      "lo": 37.04591698891963,
+      "point": 39.77412492048199,
+      "run_id": "RUN-010",
+      "seed": 2
+    },
+    {
+      "arm": "default",
+      "family": "deeplabv3plus-r101",
+      "hi": 33.664289262932996,
+      "lo": 28.995516229018214,
+      "point": 31.65114902818129,
+      "run_id": "RUN-011",
+      "seed": 0
+    },
+    {
+      "arm": "sanitized",
+      "family": "deeplabv3plus-r101",
+      "hi": 32.439525251120315,
+      "lo": 27.790129115378253,
+      "point": 30.245492576199993,
+      "run_id": "RUN-012",
+      "seed": 0
+    },
+    {
+      "arm": "sizectrl",
+      "family": "deeplabv3plus-r101",
+      "hi": 33.2583287204727,
+      "lo": 28.506312471250116,
+      "point": 30.877226285210945,
+      "run_id": "RUN-013",
+      "seed": 0
+    }
+  ],
+  "run_class": "evidence",
+  "source_run_ids": [
+    "RUN-002",
+    "RUN-003",
+    "RUN-004",
+    "RUN-005",
+    "RUN-006",
+    "RUN-007",
+    "RUN-008",
+    "RUN-009",
+    "RUN-010",
+    "RUN-011",
+    "RUN-012",
+    "RUN-013"
+  ],
+  "stem": "F05_mIoU_disease_by_arm_and_seed",
+  "title": "Disease-only mIoU by training arm and seed (fixed n=1557)",
+  "ylabel": "Disease-only mIoU (points), 95% bootstrap CI"
+}

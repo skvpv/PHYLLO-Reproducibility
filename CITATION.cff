@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or evidence package, please cite the associated repository release and research article."
+title: "PHYLLO: PlantSeg Integrity Audit and Reproducibility Package"
+type: software
+version: 1.0.0
+date-released: 2026-10-04
+authors:
+  - family-names: "Sivakumar"
+    given-names: "V."
+repository-code: "https://github.com/mitsv/PHYLLO-Reproducibility"
+license: MIT
+keywords:
+  - plant disease segmentation
+  - dataset integrity
+  - near-duplicate leakage
+  - semantic segmentation
+  - reproducibility

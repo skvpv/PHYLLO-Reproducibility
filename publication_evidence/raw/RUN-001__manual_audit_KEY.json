@@ -1,0 +1,1602 @@
+[
+  {
+    "pair_id": "PAIR-0001",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cabbage_black_rot_Bing_0035.jpg",
+      "2": "train/cabbage_black_rot_Bing_0003.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0002",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/tomato_leaf_mold_20.jpg",
+      "2": "train/tomato_leaf_mold_195.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0003",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Bing_0021.jpg",
+      "2": "train/wheat_head_scab_Bing_0144.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0004",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/tomato_yellow_leaf_curl_virus_1.jpg",
+      "2": "train/tomato_mosaic_virus_2.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0005",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0468.jpg",
+      "2": "test/wheat_head_scab_Baidu_0264.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0006",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/tomato_early_blight_210.jpg",
+      "2": "train/tomato_septoria_leaf_spot_28.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0007",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/peach_brown_rot_Bing_0076.jpg",
+      "2": "test/peach_brown_rot_Bing_0269.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0008",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/wheat_septoria_blotch_Google_0005.jpg",
+      "2": "train/wheat_septoria_blotch_google_septoria (1).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0009",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/coffee_berry_blotch_Bing_0010.jpg",
+      "2": "train/coffee_berry_blotch_Bing_0038.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0010",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/eggplant_cercospora_leaf_spot_google_0014.jpg",
+      "2": "test/zucchini_downy_mildew_Bing_0035.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0011",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/citrus_canker_169.jpg",
+      "2": "val/citrus_canker_202.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0012",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Bing_0134.jpg",
+      "2": "train/wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (26).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0013",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/wheat_septoria_blotch_Google_0212.jpg",
+      "2": "test/wheat_bacterial_leaf_streak_(black_chaff)_Google_0141.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0014",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/squash_powdery_mildew_google_0009.jpg",
+      "2": "val/cucumber_powdery_mildew_google_0046.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0015",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/wheat_head_scab_Baidu_0101.jpg",
+      "2": "test/wheat_head_scab_Baidu_0185.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0016",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/broccoli_alternaria_leaf_spot_Bing_0000.jpg",
+      "2": "test/broccoli_ring_spot_Bing_0002.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0017",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/wheat_stripe_rust_Baidu_0317.jpg",
+      "2": "train/wheat_stripe_rust_Baidu_0165.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0018",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/soybean_frog_eye_leaf_spot_Google_0054.jpg",
+      "2": "val/soybean_frog_eye_leaf_spot_Google_0135.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0019",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/banana_panama_disease_google_0062.jpg",
+      "2": "val/banana_black_leaf_streak_banana black sigatoka (15).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0020",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/eggplant_cercospora_leaf_spot_1.jpg",
+      "2": "train/soybean_brown_spot_Baidu_0008.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0021",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/soybean_brown_spot_Bing_0049.jpg",
+      "2": "train/soybean_bacterial_blight_Bing_0103.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0022",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/plum_pox_virus_Bing_0054.jpg",
+      "2": "test/plum_pox_virus_Bing_0052.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0023",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/cherry_leaf_spot_24.jpg",
+      "2": "train/cherry_leaf_spot_23.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0024",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/bell_pepper_bacterial_spot_Bing_0227.jpg",
+      "2": "train/bell_pepper_bacterial_spot_Bing_0044.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0025",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_frog_eye_leaf_spot_Bing_0186.jpg",
+      "2": "train/soybean_frog_eye_leaf_spot_Bing_0156.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0026",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/wheat_septoria_blotch_Bing_0043.jpg",
+      "2": "val/wheat_septoria_blotch_google_septoria (5).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0027",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/wheat_head_scab_Bing_0007.jpg",
+      "2": "train/wheat_head_scab_Google_0331.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0028",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/bell_pepper_blossom_end_rot_Bing_0076.jpg",
+      "2": "test/bell_pepper_blossom_end_rot_Bing_0008.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0029",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/broccoli_ring_spot_Bing_0037.jpg",
+      "2": "train/broccoli_alternaria_leaf_spot_Bing_0158.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0030",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/soybean_bacterial_blight_Bing_0119.jpg",
+      "2": "train/tomato_septoria_leaf_spot_google_0078.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0031",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/soybean_mosaic_Bing_0219.jpg",
+      "2": "train/soybean_mosaic_Bing_0102.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0032",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/peach_scab_Bing_0026.jpg",
+      "2": "test/peach_scab_Bing_0046.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0033",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/wheat_head_scab_Baidu_0264.jpg",
+      "2": "test/wheat_head_scab_Baidu_0144.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0034",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/coffee_berry_blotch_Bing_0045.jpg",
+      "2": "train/coffee_berry_blotch_Bing_0005.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0035",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0424.jpg",
+      "2": "train/wheat_head_scab_Baidu_0036.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0036",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/coffee_berry_blotch_Google_0026.jpg",
+      "2": "test/coffee_brown_eye_spot_Google_0003.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0037",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_brown_spot_Bing_0015.jpg",
+      "2": "train/eggplant_cercospora_leaf_spot_1.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0038",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_brown_spot_Google_0076.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Bing_0216.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0039",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/squash_powdery_mildew_google_0014.jpg",
+      "2": "val/zucchini_powdery_mildew_Google_0123.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0040",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/bell_pepper_bacterial_spot_Bing_0049.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Bing_0089.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0041",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/broccoli_alternaria_leaf_spot_Bing_0005.jpg",
+      "2": "val/broccoli_ring_spot_Bing_0008.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0042",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/wheat_stem_rust_Bing_0279.jpg",
+      "2": "train/wheat_head_scab_Bing_0109.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0043",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/coffee_berry_blotch_Bing_0037.jpg",
+      "2": "train/coffee_berry_blotch_Bing_0074.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0044",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_powdery_mildew_Baidu_0175.jpg",
+      "2": "train/wheat_head_scab_Baidu_0094.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0045",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/grape_leaf_spot_38.jpg",
+      "2": "test/grape_leaf_spot_168.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0046",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/cucumber_powdery_mildew_google_0026.jpg",
+      "2": "train/squash_powdery_mildew_google_0192.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0047",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/citrus_canker_412.jpg",
+      "2": "val/citrus_canker_371.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0048",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/wheat_stripe_rust_Bing_0178.jpg",
+      "2": "train/wheat_septoria_blotch_Bing_0011.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0049",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/carrot_alternaria_leaf_blight_Bing_0108.jpg",
+      "2": "test/carrot_alternaria_leaf_blight_Bing_0075.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0050",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0085.jpg",
+      "2": "val/wheat_head_scab_Bing_0194.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0051",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/banana_bunchy_top_Bing_0152.jpg",
+      "2": "train/banana_bunchy_top_Bing_0189.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0052",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/tomato_leaf_mold_224.jpg",
+      "2": "train/tomato_leaf_mold_google_0260.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0053",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/garlic_rust_29.jpg",
+      "2": "train/wheat_septoria_blotch_blotch (5).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0054",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/corn_rust_google_0197.jpg",
+      "2": "train/garlic_rust_34.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0055",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/tomato_early_blight_google_0081.jpg",
+      "2": "train/potato_early_blight_google_0126.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0056",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/blueberry_scorch_Bing_0011.jpg",
+      "2": "train/blueberry_scorch_Google_0081.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0057",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cabbage_alternaria_leaf_spot_google_0075.jpg",
+      "2": "test/cauliflower_alternaria_leaf_spot_google_0061.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0058",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0186.jpg",
+      "2": "train/wheat_head_scab_Baidu_0094.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0059",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/bean_rust_220.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Google_0096.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0060",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/potato_early_blight_31.jpg",
+      "2": "train/potato_early_blight_100.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0061",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0201.jpg",
+      "2": "train/wheat_head_scab_Baidu_0424.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0062",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/wheat_loose_smut_Bing_0203.jpg",
+      "2": "test/wheat_loose_smut_Bing_0176.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0063",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/coffee_berry_blotch_Bing_0126.jpg",
+      "2": "test/coffee_berry_blotch_Bing_0099.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0064",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/blueberry_mummy_berry_Bing_0058.jpg",
+      "2": "train/blueberry_mummy_berry_Bing_0001.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0065",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/tomato_septoria_leaf_spot_205.jpg",
+      "2": "train/tomato_early_blight_130.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0066",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_bacterial_leaf_streak_(black_chaff)_Bing_0014.jpg",
+      "2": "train/wheat_bacterial_leaf_streak_(black_chaff)_Bing_0001.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0067",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/soybean_bacterial_blight_Bing_0055.jpg",
+      "2": "test/soybean_bacterial_blight_Bing_0032.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0068",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/coffee_leaf_rust_google_0012.jpg",
+      "2": "train/coffee_leaf_rust_24.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0069",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/wheat_powdery_mildew_Baidu_0000.jpg",
+      "2": "train/wheat_powdery_mildew_Baidu_0186.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0070",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_septoria_blotch_blotch (46).jpg",
+      "2": "train/wheat_stripe_rust_Bing_0079.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0071",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/wheat_head_scab_Bing_0002.jpg",
+      "2": "train/wheat_head_scab_Google_0105.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0072",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/rice_blast_62.jpg",
+      "2": "train/rice_blast_7.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0073",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/tobacco_brown_spot_Bing_0043.jpg",
+      "2": "train/tobacco_frogeye_leaf_spot_Bing_0024.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0074",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/banana_bunchy_top_Bing_0251.jpg",
+      "2": "train/banana_bunchy_top_Bing_0081.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0075",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/grape_downy_mildew_202.jpg",
+      "2": "train/grape_downy_mildew_183.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0076",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_bacterial_leaf_streak_(black_chaff)_google_black_chaff (18).jpg",
+      "2": "test/wheat_head_scab_Baidu_0264.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0077",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_brown_spot_Bing_0015.jpg",
+      "2": "train/soybean_bacterial_blight_Bing_0252.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0078",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/banana_cordana_leaf_spot_Bing_0026.jpg",
+      "2": "test/banana_cordana_leaf_spot_Bing_0024.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0079",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/soybean_frog_eye_leaf_spot_Google_0004.jpg",
+      "2": "val/soybean_frog_eye_leaf_spot_Google_0054.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0080",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_bacterial_leaf_streak_(black_chaff)_google_black_chaff (11).jpg",
+      "2": "val/wheat_head_scab_Baidu_0001.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0081",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/plum_brown_rot_Bing_0081.jpg",
+      "2": "test/plum_brown_rot_Bing_0000.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0082",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/wheat_powdery_mildew_Google_0051.jpg",
+      "2": "test/wheat_powdery_mildew_Bing_0016.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0083",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/squash_powdery_mildew_google_0008.jpg",
+      "2": "val/zucchini_powdery_mildew_Bing_0330.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0084",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/soybean_bacterial_blight_Bing_0056.jpg",
+      "2": "test/soybean_bacterial_blight_Bing_0172.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0085",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_frog_eye_leaf_spot_Bing_0044.jpg",
+      "2": "train/soybean_frog_eye_leaf_spot_Bing_0063.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0086",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/bell_pepper_blossom_end_rot_Bing_0201.jpg",
+      "2": "train/bell_pepper_blossom_end_rot_Bing_0001.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0087",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_stripe_rust_Baidu_0065.jpg",
+      "2": "train/wheat_stripe_rust_Baidu_0330.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0088",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/soybean_frog_eye_leaf_spot_Bing_0155.jpg",
+      "2": "train/soybean_brown_spot_Bing_0015.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0089",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/cabbage_black_rot_Bing_0007.jpg",
+      "2": "train/cabbage_black_rot_Bing_0065.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0090",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/soybean_frog_eye_leaf_spot_Bing_0006.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Bing_0016.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0091",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/wheat_head_scab_Baidu_0368.jpg",
+      "2": "train/wheat_head_scab_Baidu_0344.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0092",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/soybean_brown_spot_Bing_0041.jpg",
+      "2": "val/soybean_bacterial_blight_Bing_0119.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0093",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/tomato_septoria_leaf_spot_26.jpg",
+      "2": "train/tomato_septoria_leaf_spot_17.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0094",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0322.jpg",
+      "2": "train/wheat_head_scab_Baidu_0403.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0095",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/wheat_septoria_blotch_blotch (69).jpg",
+      "2": "train/wheat_septoria_blotch_blotch (14).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0096",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/wheat_stripe_rust_Baidu_0129.jpg",
+      "2": "test/garlic_rust_98.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0097",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/grape_leaf_spot_google_0036.jpg",
+      "2": "test/eggplant_cercospora_leaf_spot_google_0030.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0098",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_bacterial_blight_Bing_0122.jpg",
+      "2": "val/tomato_bacterial_leaf_spot_google_0188.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0099",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cauliflower_alternaria_leaf_spot_google_0056.jpg",
+      "2": "val/grape_leaf_spot_google_0036.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0100",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/tomato_leaf_mold_151.jpg",
+      "2": "test/tomato_leaf_mold_259.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0101",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/bell_pepper_bacterial_spot_Google_0004.jpg",
+      "2": "val/bell_pepper_bacterial_spot_Bing_0013.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0102",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/zucchini_bacterial_wilt_Bing_0163.jpg",
+      "2": "test/cucumber_bacterial_wilt_google_0076.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0103",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/coffee_berry_blotch_Google_0010.jpg",
+      "2": "train/coffee_berry_blotch_Bing_0036.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0104",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/coffee_berry_blotch_Bing_0111.jpg",
+      "2": "train/coffee_berry_blotch_Bing_0077.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0105",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/ginger_sheath_blight_26.jpg",
+      "2": "train/rice_sheath_blight_20.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0106",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/bell_pepper_bacterial_spot_Bing_0005.jpg",
+      "2": "train/bell_pepper_bacterial_spot_Bing_0044.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0107",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/wheat_stem_rust_Bing_0206.jpg",
+      "2": "train/wheat_stem_rust_Google_0052.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0108",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/soybean_frog_eye_leaf_spot_Bing_0004.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Google_0096.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0109",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/soybean_bacterial_blight_Bing_0044.jpg",
+      "2": "train/tomato_septoria_leaf_spot_google_0005.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0110",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0322.jpg",
+      "2": "test/wheat_head_scab_Baidu_0264.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0111",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/broccoli_alternaria_leaf_spot_Bing_0045.jpg",
+      "2": "val/broccoli_alternaria_leaf_spot_Google_0278.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0112",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/wheat_septoria_blotch_Bing_0045.jpg",
+      "2": "train/wheat_septoria_blotch_Google_0183.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0113",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/wheat_stripe_rust_Bing_0094.jpg",
+      "2": "val/wheat_stripe_rust_Bing_0008.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0114",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Google_0097.jpg",
+      "2": "test/wheat_head_scab_Baidu_0264.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0115",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/citrus_canker_323.jpg",
+      "2": "train/citrus_canker_44.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0116",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/soybean_frog_eye_leaf_spot_Google_0054.jpg",
+      "2": "train/soybean_frog_eye_leaf_spot_Bing_0186.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0117",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_bacterial_leaf_streak_(black_chaff)_Bing_0010.jpg",
+      "2": "train/wheat_septoria_blotch_Bing_0035.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0118",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/tobacco_brown_spot_Bing_0003.jpg",
+      "2": "test/tobacco_brown_spot_Bing_0044.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0119",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_downy_mildew_Bing_0073.jpg",
+      "2": "val/tomato_septoria_leaf_spot_google_0255.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0120",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/tomato_bacterial_leaf_spot_google_0091.jpg",
+      "2": "train/tomato_septoria_leaf_spot_google_0204.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0121",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/broccoli_alternaria_leaf_spot_Google_0057.jpg",
+      "2": "train/bean_rust_220.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0122",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/bell_pepper_powdery_mildew_Bing_0036.jpg",
+      "2": "test/bell_pepper_powdery_mildew_Bing_0001.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0123",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/grape_leaf_spot_google_0060.jpg",
+      "2": "train/potato_early_blight_google_0071.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0124",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_stripe_rust_Baidu_0027.jpg",
+      "2": "train/wheat_septoria_blotch_blotch (70).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0125",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/bell_pepper_frogeye_leaf_spot_Bing_0011.jpg",
+      "2": "train/apple_rust_google_0135.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0126",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/bean_rust_46.jpg",
+      "2": "train/cucumber_angular_leaf_spot_151.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0127",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/citrus_canker_281.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Bing_0216.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0128",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/apple_rust_7.jpg",
+      "2": "val/apple_scab_google_0069.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0129",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/bell_pepper_bacterial_spot_Bing_0036.jpg",
+      "2": "test/bell_pepper_bacterial_spot_Bing_0008.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0130",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/citrus_canker_143.jpg",
+      "2": "train/citrus_canker_259.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0131",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/apple_scab_76.jpg",
+      "2": "train/apple_rust_162.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0132",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_brown_spot_Bing_0051.jpg",
+      "2": "train/soybean_bacterial_blight_Bing_0038.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0133",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/garlic_rust_google_0090.jpg",
+      "2": "train/wheat_leaf_rust_Bing_0051.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0134",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_powdery_mildew_Baidu_0198.jpg",
+      "2": "train/wheat_powdery_mildew_Baidu_0005.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0135",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/soybean_frog_eye_leaf_spot_Google_0135.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Google_0096.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0136",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/citrus_canker_202.jpg",
+      "2": "train/citrus_canker_210.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0137",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/wheat_head_scab_Baidu_0175.jpg",
+      "2": "train/wheat_head_scab_Baidu_0322.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0138",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/wheat_stripe_rust_Bing_0263.jpg",
+      "2": "test/wheat_stripe_rust_Google_0223.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0139",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/tomato_leaf_mold_google_0260.jpg",
+      "2": "train/tomato_leaf_mold_195.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0140",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/soybean_frog_eye_leaf_spot_Bing_0135.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Google_0056.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0141",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/soybean_brown_spot_Bing_0070.jpg",
+      "2": "train/soybean_brown_spot_Bing_0046.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0142",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/banana_bunchy_top_Google_0026.jpg",
+      "2": "train/banana_bunchy_top_Bing_0095.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0143",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/tobacco_brown_spot_Bing_0007.jpg",
+      "2": "train/tobacco_brown_spot_Bing_0035.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0144",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_frog_eye_leaf_spot_Google_0355.jpg",
+      "2": "val/bean_rust_google_0001.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0145",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/tomato_early_blight_google_0291.jpg",
+      "2": "train/tomato_septoria_leaf_spot_google_0050.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0146",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/wheat_stripe_rust_Google_0311.jpg",
+      "2": "train/wheat_stripe_rust_Bing_0079.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0147",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/wheat_stripe_rust_Bing_0037.jpg",
+      "2": "train/wheat_stripe_rust_Bing_0095.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0148",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/bean_halo_blight_google_0075.jpg",
+      "2": "train/bean_halo_blight_google_0027.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0149",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/wheat_septoria_blotch_Bing_0045.jpg",
+      "2": "val/wheat_septoria_blotch_blotch (105).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0150",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/wheat_head_scab_Baidu_0369.jpg",
+      "2": "train/wheat_head_scab_Baidu_0176.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0151",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0259.jpg",
+      "2": "train/wheat_head_scab_Baidu_0036.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0152",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/eggplant_phomopsis_fruit_rot_Google_0031.jpg",
+      "2": "train/eggplant_phomopsis_fruit_rot_Bing_0009.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0153",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cauliflower_alternaria_leaf_spot_google_0056.jpg",
+      "2": "test/tomato_bacterial_leaf_spot_google_0087.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0154",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/wheat_septoria_blotch_blotch (18).jpg",
+      "2": "train/wheat_septoria_blotch_Bing_0011.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0155",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/broccoli_ring_spot_Bing_0008.jpg",
+      "2": "train/cabbage_alternaria_leaf_spot_google_0001.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0156",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/soybean_frog_eye_leaf_spot_Bing_0003.jpg",
+      "2": "train/soybean_frog_eye_leaf_spot_Bing_0076.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0157",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/bean_rust_google_0021.jpg",
+      "2": "test/soybean_bacterial_blight_Bing_0027.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0158",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/cabbage_black_rot_Bing_0060.jpg",
+      "2": "train/cabbage_black_rot_Bing_0005.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0159",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cabbage_black_rot_Bing_0009.jpg",
+      "2": "train/cabbage_black_rot_Bing_0228.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0160",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/bell_pepper_bacterial_spot_Google_0008.jpg",
+      "2": "train/bell_pepper_bacterial_spot_Bing_0108.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0161",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/wheat_stem_rust_Bing_0167.jpg",
+      "2": "test/wheat_stem_rust_Bing_0247.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0162",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/wheat_septoria_blotch_blotch (55).jpg",
+      "2": "train/wheat_septoria_blotch_blotch (73).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0163",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/citrus_canker_27.jpg",
+      "2": "train/citrus_canker_241.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0164",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/soybean_frog_eye_leaf_spot_Google_0096.jpg",
+      "2": "train/soybean_frog_eye_leaf_spot_Bing_0170.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0165",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/banana_bunchy_top_Bing_0026.jpg",
+      "2": "train/banana_bunchy_top_Bing_0247.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0166",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/wheat_head_scab_Baidu_0282.jpg",
+      "2": "train/wheat_head_scab_Baidu_0006.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0167",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cucumber_powdery_mildew_141.jpg",
+      "2": "train/cucumber_powdery_mildew_67.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0168",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/wheat_stripe_rust_Baidu_0005.jpg",
+      "2": "train/wheat_stripe_rust_Bing_0144.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0169",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/corn_rust_google_0014.jpg",
+      "2": "train/corn_rust_google_0072.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0170",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/carrot_alternaria_leaf_blight_Bing_0046.jpg",
+      "2": "val/carrot_cercospora_leaf_blight_Bing_0059.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0171",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_frog_eye_leaf_spot_Bing_0051.jpg",
+      "2": "train/soybean_frog_eye_leaf_spot_Bing_0018.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0172",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0089.jpg",
+      "2": "val/wheat_head_scab_Baidu_0231.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0173",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/bean_halo_blight_google_0032.jpg",
+      "2": "train/grape_leaf_spot_google_0060.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0174",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/wheat_head_scab_Baidu_0231.jpg",
+      "2": "train/wheat_head_scab_Baidu_0006.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0175",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/soybean_brown_spot_Bing_0090.jpg",
+      "2": "val/soybean_brown_spot_Bing_0021.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0176",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_frog_eye_leaf_spot_Bing_0039.jpg",
+      "2": "test/soybean_frog_eye_leaf_spot_Google_0096.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0177",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/broccoli_alternaria_leaf_spot_Google_0007.jpg",
+      "2": "val/broccoli_ring_spot_Bing_0008.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0178",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/cauliflower_alternaria_leaf_spot_google_0002.jpg",
+      "2": "test/broccoli_alternaria_leaf_spot_Bing_0000.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0179",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/cucumber_powdery_mildew_google_0061.jpg",
+      "2": "train/squash_powdery_mildew_google_0365.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0180",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "val/tomato_septoria_leaf_spot_google_0255.jpg",
+      "2": "train/soybean_brown_spot_Google_0076.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0181",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "val/tomato_bacterial_leaf_spot_google_0066.jpg",
+      "2": "test/plum_bacterial_spot_Google_0057.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0182",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/bell_pepper_frogeye_leaf_spot_Google_0000.jpg",
+      "2": "train/bell_pepper_frogeye_leaf_spot_Bing_0000.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0183",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cauliflower_alternaria_leaf_spot_google_0234.jpg",
+      "2": "test/cabbage_alternaria_leaf_spot_google_0206.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0184",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/coffee_berry_blotch_Bing_0148.jpg",
+      "2": "train/coffee_berry_blotch_Bing_0048.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0185",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cucumber_powdery_mildew_google_0002.jpg",
+      "2": "train/squash_powdery_mildew_google_0007.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0186",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/wheat_stem_rust_Baidu_0003.jpg",
+      "2": "train/wheat_stem_rust_Bing_0197.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0187",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "test/zucchini_powdery_mildew_Bing_0233.jpg",
+      "2": "train/squash_powdery_mildew_24.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0188",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/wheat_head_scab_Baidu_0310.jpg",
+      "2": "train/wheat_head_scab_Baidu_0303.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0189",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0078.jpg",
+      "2": "test/wheat_head_scab_Baidu_0281.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0190",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/cabbage_alternaria_leaf_spot_google_0013.jpg",
+      "2": "test/cauliflower_alternaria_leaf_spot_google_0028.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0191",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/soybean_rust_Bing_0014.jpg",
+      "2": "test/soybean_rust_Bing_0074.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0192",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "test/tomato_septoria_leaf_spot_google_0061.jpg",
+      "2": "train/tomato_bacterial_leaf_spot_google_0254.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0193",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0003.jpg",
+      "2": "train/wheat_head_scab_Baidu_0344.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0194",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/soybean_frog_eye_leaf_spot_Bing_0159.jpg",
+      "2": "train/soybean_frog_eye_leaf_spot_Bing_0018.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0195",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/peach_brown_rot_Bing_0175.jpg",
+      "2": "test/peach_brown_rot_Bing_0141.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0196",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Baidu_0192.jpg",
+      "2": "train/wheat_head_scab_Baidu_0058.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0197",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_head_scab_Google_0229.jpg",
+      "2": "train/wheat_head_scab_Bing_0014.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0198",
+    "candidate_kind": "soft",
+    "mapping": {
+      "1": "train/wheat_leaf_rust_Bing_0009.jpg",
+      "2": "train/wheat_septoria_blotch_blotch (46).jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0199",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/soybean_frog_eye_leaf_spot_Bing_0063.jpg",
+      "2": "train/soybean_frog_eye_leaf_spot_Google_0031.jpg"
+    }
+  },
+  {
+    "pair_id": "PAIR-0200",
+    "candidate_kind": "hard",
+    "mapping": {
+      "1": "train/citrus_canker_169.jpg",
+      "2": "train/citrus_canker_382.jpg"
+    }
+  }
+]

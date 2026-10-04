@@ -1,0 +1,14 @@
+Data-derived artifact licence notice
+
+The PlantSeg-derived split lists, embeddings, per-run evidence, statistics,
+tables, and figures in this repository are provided under the Creative Commons
+Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0), subject to
+the terms and attribution requirements of the original PlantSeg release.
+
+Licence: https://creativecommons.org/licenses/by-nc/4.0/
+PlantSeg v7: https://doi.org/10.5281/zenodo.17719108
+
+The original PlantSeg images and masks are not redistributed here. Users must
+obtain them from the official source and comply with the source record's terms.
+This notice does not replace or weaken any rights or restrictions attached to
+the original dataset.

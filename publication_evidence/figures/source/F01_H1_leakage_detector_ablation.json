@@ -1,0 +1,30 @@
+{
+  "compute_profile_id": "CP-01",
+  "err": [
+    10.401052304706827,
+    13.616809485837642
+  ],
+  "err_for": "union",
+  "hline": {
+    "label": "pre-registered 1% threshold",
+    "y": 1.0
+  },
+  "kind": "bar",
+  "labels": [
+    "clip_only",
+    "phash_only",
+    "union"
+  ],
+  "run_class": "evidence",
+  "source_run_ids": [
+    "RUN-001"
+  ],
+  "stem": "F01_H1_leakage_detector_ablation",
+  "title": "Cross-split near-duplicate leakage of the released test split (n=1561)",
+  "values": [
+    8.392056374119154,
+    11.531069827033953,
+    11.915438821268417
+  ],
+  "ylabel": "Test images with a hard cross-split near-duplicate (%)"
+}

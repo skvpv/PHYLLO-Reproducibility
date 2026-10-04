@@ -1,0 +1,40 @@
+{
+  "bars": [
+    {
+      "hi": 28.899378520422502,
+      "label": "DeepLabV3+-R101\ncorrected split (n=1552)",
+      "lo": 24.053715178753233,
+      "point": 26.651859859175893
+    },
+    {
+      "hi": 33.664289262932996,
+      "label": "DeepLabV3+-R101\nreleased fixed cohort (n=1557)",
+      "lo": 28.995516229018214,
+      "point": 31.65114902818129
+    },
+    {
+      "hi": 39.0955298169421,
+      "label": "SegNeXt-MSCAN-L\ncorrected split (n=1552)",
+      "lo": 33.593372933337726,
+      "point": 36.83292613666382
+    },
+    {
+      "hi": 43.26707454023414,
+      "label": "SegNeXt-MSCAN-L\nreleased fixed cohort (n=1557)",
+      "lo": 38.03934850460367,
+      "point": 40.93205772315705
+    }
+  ],
+  "compute_profile_id": "CP-02",
+  "kind": "cibar",
+  "run_class": "evidence",
+  "source_run_ids": [
+    "RUN-002",
+    "RUN-011",
+    "RUN-015",
+    "RUN-016"
+  ],
+  "stem": "F07_corrected_benchmark_descriptive",
+  "title": "Corrected benchmark vs released split (descriptive, non-paired)",
+  "ylabel": "Disease-only mIoU (points), 95% bootstrap CI"
+}

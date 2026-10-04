@@ -1,0 +1,7 @@
+baseline,policy,run_id,mIoU_disease_pts,ci95_lo,ci95_hi,mIoU_116_pts,claim_support
+DeepLabV3+-R101,A retain released masks (1561),RUN-019,31.626100,28.964511,33.543532,32.114285,NONE
+DeepLabV3+-R101,B metadata-consistency relabel (1561),RUN-020,31.603354,28.973564,33.563883,32.091737,NONE
+DeepLabV3+-R101,primary exclude-12 (1557),RUN-011,31.651149,28.995516,33.664289,32.139294,NONE
+SegNeXt-MSCAN-L,A retain released masks (1561),RUN-017,41.030325,38.046474,43.281946,41.468633,NONE
+SegNeXt-MSCAN-L,B metadata-consistency relabel (1561),RUN-018,40.994796,38.046298,43.266761,41.432906,NONE
+SegNeXt-MSCAN-L,primary exclude-12 (1557),RUN-002,40.932058,38.039349,43.267075,41.371580,NONE

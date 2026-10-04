@@ -1,0 +1,116 @@
+Index,Plant,Disease,Metadata_Row_Count,Unique_Plant_Disease_Pairs,Metadata_Uniqueness_Status,GitHub_Class_Position,GitHub_CLASSES_Name,GitHub_Order_Match_Status,GitHub_Commit
+0,Apple,apple black rot,63,1,PASS,1,apple black rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+1,Apple,apple mosaic virus,73,1,PASS,2,apple mosaic virus,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+2,Apple,apple rust,98,1,PASS,3,apple rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+3,Apple,apple scab,168,1,PASS,4,apple scab,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+4,Banana,banana anthracnose,50,1,PASS,5,banana anthracnose,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+5,Banana,banana black leaf streak,114,1,PASS,6,banana black leaf streak,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+6,Banana,banana bunchy top,78,1,PASS,7,banana bunchy top,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+7,Banana,banana cigar end rot,33,1,PASS,8,banana cigar end rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+8,Banana,banana cordana leaf spot,30,1,PASS,9,banana cordana leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+9,Banana,banana panama disease,49,1,PASS,10,banana panama disease,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+10,Basil,basil downy mildew,41,1,PASS,11,basil downy mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+11,Bean,bean halo blight,35,1,PASS,12,bean halo blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+12,Bean,bean mosaic virus,34,1,PASS,13,bean mosaic virus,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+13,Bean,bean rust,75,1,PASS,14,bean rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+14,Bell pepper,bell pepper bacterial spot,53,1,PASS,15,bell pepper bacterial spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+15,Bell pepper,bell pepper blossom end rot,81,1,PASS,16,bell pepper blossom end rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+16,Bell pepper,bell pepper frogeye leaf spot,24,1,PASS,17,bell pepper frogeye leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+17,Bell pepper,bell pepper powdery mildew,18,1,PASS,18,bell pepper powdery mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+18,Blueberry,blueberry anthracnose,28,1,PASS,19,blueberry anthracnose,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+19,Blueberry,blueberry botrytis blight,19,1,PASS,20,blueberry botrytis blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+20,Blueberry,blueberry mummy berry,29,1,PASS,21,blueberry mummy berry,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+21,Blueberry,blueberry rust,33,1,PASS,22,blueberry rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+22,Blueberry,blueberry scorch,33,1,PASS,23,blueberry scorch,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+23,Broccoli,broccoli alternaria leaf spot,56,1,PASS,24,broccoli alternaria leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+24,Broccoli,broccoli downy mildew,23,1,PASS,25,broccoli downy mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+25,Broccoli,broccoli ring spot,12,1,PASS,26,broccoli ring spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+26,Cabbage,cabbage alternaria leaf spot,39,1,PASS,27,cabbage alternaria leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+27,Cabbage,cabbage black rot,93,1,PASS,28,cabbage black rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+28,Cabbage,cabbage downy mildew,49,1,PASS,29,cabbage downy mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+29,Carrot,carrot alternaria leaf blight,45,1,PASS,30,carrot alternaria leaf blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+30,Carrot,carrot cavity spot,42,1,PASS,31,carrot cavity spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+31,Carrot,carrot cercospora leaf blight,18,1,PASS,32,carrot cercospora leaf blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+32,Cauliflower,cauliflower alternaria leaf spot,34,1,PASS,33,cauliflower alternaria leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+33,Cauliflower,cauliflower bacterial soft rot,19,1,PASS,34,cauliflower bacterial soft rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+34,Celery,celery anthracnose,11,1,PASS,35,celery anthracnose,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+35,Celery,celery early blight,29,1,PASS,36,celery early blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+36,Cherry,cherry leaf spot,66,1,PASS,37,cherry leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+37,Cherry,cherry powdery mildew,25,1,PASS,38,cherry powdery mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+38,Citrus,citrus canker,323,1,PASS,39,citrus canker,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+39,Citrus,citrus greening disease,93,1,PASS,40,citrus greening disease,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+40,Coffee,coffee berry blotch,69,1,PASS,41,coffee berry blotch,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+41,Coffee,coffee black rot,3,1,PASS,42,coffee black rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+42,Coffee,coffee brown eye spot,17,1,PASS,43,coffee brown eye spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+43,Coffee,coffee leaf rust,107,1,PASS,44,coffee leaf rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+44,Corn,corn gray leaf spot,76,1,PASS,45,corn gray leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+45,Corn,corn northern leaf blight,92,1,PASS,46,corn northern leaf blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+46,Corn,corn rust,120,1,PASS,47,corn rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+47,Corn,corn smut,131,1,PASS,48,corn smut,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+48,Cucumber,cucumber angular leaf spot,148,1,PASS,49,cucumber angular leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+49,Cucumber,cucumber bacterial wilt,82,1,PASS,50,cucumber bacterial wilt,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+50,Cucumber,cucumber powdery mildew,153,1,PASS,51,cucumber powdery mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+51,Eggplant,eggplant cercospora leaf spot,38,1,PASS,52,eggplant cercospora leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+52,Eggplant,eggplant phomopsis fruit rot,32,1,PASS,53,eggplant phomopsis fruit rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+53,Eggplant,eggplant phytophthora blight,22,1,PASS,54,eggplant phytophthora blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+54,Garlic,garlic leaf blight,79,1,PASS,55,garlic leaf blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+55,Garlic,garlic rust,80,1,PASS,56,garlic rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+56,Ginger,ginger leaf spot,22,1,PASS,57,ginger leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+57,Ginger,ginger sheath blight,59,1,PASS,58,ginger sheath blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+58,Grape,grape black rot,88,1,PASS,59,grape black rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+59,Grape,grape downy mildew,211,1,PASS,60,grape downy mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+60,Grape,grape leaf spot,69,1,PASS,61,grape leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+61,Grape,grapevine leafroll disease,32,1,PASS,62,grapevine leafroll disease,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+62,Lettuce,lettuce downy mildew,54,1,PASS,63,lettuce downy mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+63,Lettuce,lettuce mosaic virus,22,1,PASS,64,lettuce mosaic virus,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+64,Maple,maple tar spot,58,1,PASS,65,maple tar spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+65,Peach,peach anthracnose,10,1,PASS,66,peach anthracnose,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+66,Peach,peach brown rot,96,1,PASS,67,peach brown rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+67,Peach,peach leaf curl,121,1,PASS,68,peach leaf curl,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+68,Peach,peach rust,5,1,PASS,69,peach rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+69,Peach,peach scab,55,1,PASS,70,peach scab,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+70,Plum,plum bacterial spot,10,1,PASS,71,plum bacterial spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+71,Plum,plum brown rot,42,1,PASS,72,plum brown rot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+72,Plum,plum pocket disease,28,1,PASS,73,plum pocket disease,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+73,Plum,plum pox virus,23,1,PASS,74,plum pox virus,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+74,Plum,plum rust,17,1,PASS,75,plum rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+75,Potato,potato early blight,68,1,PASS,76,potato early blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+76,Potato,potato late blight,78,1,PASS,77,potato late blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+77,Raspberry,raspberry fire blight,25,1,PASS,78,raspberry fire blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+78,Raspberry,raspberry gray mold,18,1,PASS,79,raspberry gray mold,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+79,Raspberry,raspberry leaf spot,11,1,PASS,80,raspberry leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+80,Raspberry,raspberry yellow rust,23,1,PASS,81,raspberry yellow rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+81,Rice,rice blast,50,1,PASS,82,rice blast,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+82,Rice,rice sheath blight,55,1,PASS,83,rice sheath blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+83,Soybean,soybean bacterial blight,61,1,PASS,84,soybean bacterial blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+84,Soybean,soybean brown spot,55,1,PASS,85,soybean brown spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+85,Soybean,soybean downy mildew,76,1,PASS,86,soybean downy mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+86,Soybean,soybean frog eye leaf spot,153,1,PASS,87,soybean frog eye leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+87,Soybean,soybean mosaic,89,1,PASS,88,soybean mosaic,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+88,Soybean,soybean rust,66,1,PASS,89,soybean rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+89,Squash,squash powdery mildew,144,1,PASS,90,squash powdery mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+90,Strawberry,strawberry anthracnose,30,1,PASS,91,strawberry anthracnose,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+91,Strawberry,strawberry leaf scorch,19,1,PASS,92,strawberry leaf scorch,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+92,Tobacco,tobacco blue mold,36,1,PASS,93,tobacco blue mold,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+93,Tobacco,tobacco brown spot,50,1,PASS,94,tobacco brown spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+94,Tobacco,tobacco frogeye leaf spot,19,1,PASS,95,tobacco frogeye leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+95,Tobacco,tobacco mosaic virus,29,1,PASS,96,tobacco mosaic virus,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+96,Tomato,tomato bacterial leaf spot,90,1,PASS,97,tomato bacterial leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+97,Tomato,tomato early blight,153,1,PASS,98,tomato early blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+98,Tomato,tomato late blight,117,1,PASS,99,tomato late blight,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+99,Tomato,tomato leaf mold,102,1,PASS,100,tomato leaf mold,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+100,Tomato,tomato mosaic virus,43,1,PASS,101,tomato mosaic virus,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+101,Tomato,tomato septoria leaf spot,99,1,PASS,102,tomato septoria leaf spot,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+102,Tomato,tomato yellow leaf curl virus,63,1,PASS,103,tomato yellow leaf curl virus,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+103,Wheat,wheat bacterial leaf streak (black chaff),83,1,PASS,104,wheat bacterial leaf streak (black chaff),MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+104,Wheat,wheat head scab,230,1,PASS,105,wheat head scab,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+105,Wheat,wheat leaf rust,75,1,PASS,106,wheat leaf rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+106,Wheat,wheat loose smut,141,1,PASS,107,wheat loose smut,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+107,Wheat,wheat powdery mildew,178,1,PASS,108,wheat powdery mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+108,Wheat,wheat septoria blotch,142,1,PASS,109,wheat septoria blotch,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+109,Wheat,wheat stem rust,89,1,PASS,110,wheat stem rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+110,Wheat,wheat stripe rust,228,1,PASS,111,wheat stripe rust,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+111,Zucchini,zucchini bacterial wilt,57,1,PASS,112,zucchini bacterial wilt,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+112,Zucchini,zucchini downy mildew,33,1,PASS,113,zucchini downy mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+113,Zucchini,zucchini powdery mildew,133,1,PASS,114,zucchini powdery mildew,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0
+114,Zucchini,zucchini yellow mosaic virus,56,1,PASS,115,zucchini yellow mosaic virus,MATCH,1a3dd4d9224bcc97a5850af7dd1c423abc24eae0

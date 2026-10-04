@@ -1,0 +1,20 @@
+pair_id,image_1,image_2,reviewer_1_verdict,reviewer_2_verdict,consensus_verdict,adjudicator_notes
+PAIR-0012,manual_audit_assets/PAIR-0012_1.jpg,manual_audit_assets/PAIR-0012_2.jpg,non-duplicate,duplicate,non-duplicate,Visual adjudication: different photographs/compositions.
+PAIR-0013,manual_audit_assets/PAIR-0013_1.jpg,manual_audit_assets/PAIR-0013_2.jpg,duplicate,non-duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0018,manual_audit_assets/PAIR-0018_1.jpg,manual_audit_assets/PAIR-0018_2.jpg,non-duplicate,duplicate,non-duplicate,Visual adjudication: different photographs/compositions.
+PAIR-0020,manual_audit_assets/PAIR-0020_1.jpg,manual_audit_assets/PAIR-0020_2.jpg,duplicate,non-duplicate,non-duplicate,Visual adjudication: different photographs/compositions.
+PAIR-0029,manual_audit_assets/PAIR-0029_1.jpg,manual_audit_assets/PAIR-0029_2.jpg,duplicate,non-duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0030,manual_audit_assets/PAIR-0030_1.jpg,manual_audit_assets/PAIR-0030_2.jpg,duplicate,non-duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0035,manual_audit_assets/PAIR-0035_1.jpg,manual_audit_assets/PAIR-0035_2.jpg,duplicate,non-duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0040,manual_audit_assets/PAIR-0040_1.jpg,manual_audit_assets/PAIR-0040_2.jpg,duplicate,non-duplicate,non-duplicate,Visual adjudication: different photographs/compositions.
+PAIR-0058,manual_audit_assets/PAIR-0058_1.jpg,manual_audit_assets/PAIR-0058_2.jpg,duplicate,non-duplicate,non-duplicate,Visual adjudication: different photographs/compositions.
+PAIR-0098,manual_audit_assets/PAIR-0098_1.jpg,manual_audit_assets/PAIR-0098_2.jpg,non-duplicate,duplicate,non-duplicate,Visual adjudication: different photographs/compositions.
+PAIR-0100,manual_audit_assets/PAIR-0100_1.jpg,manual_audit_assets/PAIR-0100_2.jpg,non-duplicate,duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0110,manual_audit_assets/PAIR-0110_1.jpg,manual_audit_assets/PAIR-0110_2.jpg,non-duplicate,duplicate,non-duplicate,Visual adjudication: different photographs/compositions.
+PAIR-0111,manual_audit_assets/PAIR-0111_1.jpg,manual_audit_assets/PAIR-0111_2.jpg,duplicate,non-duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0132,manual_audit_assets/PAIR-0132_1.jpg,manual_audit_assets/PAIR-0132_2.jpg,non-duplicate,duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0148,manual_audit_assets/PAIR-0148_1.jpg,manual_audit_assets/PAIR-0148_2.jpg,non-duplicate,duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0159,manual_audit_assets/PAIR-0159_1.jpg,manual_audit_assets/PAIR-0159_2.jpg,duplicate,non-duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0167,manual_audit_assets/PAIR-0167_1.jpg,manual_audit_assets/PAIR-0167_2.jpg,duplicate,non-duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0169,manual_audit_assets/PAIR-0169_1.jpg,manual_audit_assets/PAIR-0169_2.jpg,non-duplicate,duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.
+PAIR-0187,manual_audit_assets/PAIR-0187_1.jpg,manual_audit_assets/PAIR-0187_2.jpg,duplicate,non-duplicate,duplicate,Visual adjudication: same underlying image/scene; duplicate or crop/flip/resize variant.

@@ -1,0 +1,4 @@
+detector,n_leaked_test,n_test,rate_percent
+clip_only,131,1561,8.392056
+phash_only,180,1561,11.531070
+union,186,1561,11.915439

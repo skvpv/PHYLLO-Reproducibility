@@ -1,0 +1,70 @@
+{
+  "compute_profile_id": "CP-02",
+  "kind": "forest",
+  "rows": [
+    {
+      "hi": 2.845675036115618,
+      "label": "DeepLabV3+-R101: delta_leak",
+      "lo": -0.43746092454936775,
+      "point": 1.405656451981302
+    },
+    {
+      "hi": 2.287984747962762,
+      "label": "DeepLabV3+-R101: delta_size",
+      "lo": -1.463340960744693,
+      "point": 0.773922742970351
+    },
+    {
+      "hi": 2.5963870052489,
+      "label": "DeepLabV3+-R101: delta_attr",
+      "lo": -1.0223009931109637,
+      "point": 0.6317337090109509
+    },
+    {
+      "hi": 3.0701366832408263,
+      "label": "SegNeXt-MSCAN-L: delta_leak",
+      "lo": -0.18853143377750903,
+      "point": 1.8065622137212134
+    },
+    {
+      "hi": 1.6748628564920776,
+      "label": "SegNeXt-MSCAN-L: delta_size",
+      "lo": -0.8684571901888516,
+      "point": 0.662116622865111
+    },
+    {
+      "hi": 2.4669211015694734,
+      "label": "SegNeXt-MSCAN-L: delta_attr",
+      "lo": -0.43093369564893125,
+      "point": 1.1444455908561024
+    }
+  ],
+  "run_class": "evidence",
+  "source_run_ids": [
+    "RUN-002",
+    "RUN-003",
+    "RUN-004",
+    "RUN-005",
+    "RUN-006",
+    "RUN-007",
+    "RUN-008",
+    "RUN-009",
+    "RUN-010",
+    "RUN-011",
+    "RUN-012",
+    "RUN-013"
+  ],
+  "stem": "F03_H2_causal_paired_deltas",
+  "title": "Paired effect of leakage sanitization on disease-only mIoU (fixed n=1557)",
+  "vlines": [
+    {
+      "label": "no effect",
+      "x": 0
+    },
+    {
+      "label": "pre-registered 0.5-pt margin",
+      "x": 0.5
+    }
+  ],
+  "xlabel": "Delta disease-only mIoU (points), 95% paired-bootstrap CI"
+}

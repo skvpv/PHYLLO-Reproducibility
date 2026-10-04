@@ -1,0 +1,16 @@
+# Conda environment for PHYLLO-001 on CP-01 (RTX PRO 6000 Blackwell, sm_120).
+# Base env is Miniforge/Conda 26.5.3 with Python 3.14.6 (unusable for this stack) and no
+# CUDA toolkit; this creates a dedicated env with a compatible Python and the CUDA 12.8
+# toolkit needed to BUILD mmcv from source for sm_120. Pins are a first-defensible stack;
+# preflight verifies them on the real device (fallback ladder in setup_env.sh).
+name: phyllo
+channels: [conda-forge, nvidia]
+dependencies:
+  # Python 3.11 is selected for the old-enough OpenMMLab build toolchain.  The login
+  # node's Python 3.14.6 is observed evidence, not the project interpreter.
+  - python=3.11
+  - pip
+  - cuda-toolkit=12.8        # provides nvcc for the mmcv source build (sm_120)
+  - cmake>=3.27
+  - ninja
+  - git

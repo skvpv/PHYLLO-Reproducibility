@@ -1,0 +1,6 @@
+{
+  "category_map": "Category_Map.csv",
+  "out_dir": "tables",
+  "raw_dir": "raw",
+  "stats_dir": "statistics"
+}

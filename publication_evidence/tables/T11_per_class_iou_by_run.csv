@@ -1,0 +1,1625 @@
+run_id,mask_value,class_name,iou_pts
+RUN-002,0,background,91.477127
+RUN-002,1,apple black rot,34.137287
+RUN-002,2,apple mosaic virus,57.901675
+RUN-002,3,apple rust,45.074183
+RUN-002,4,apple scab,44.392077
+RUN-002,5,banana anthracnose,67.308033
+RUN-002,6,banana black leaf streak,84.325058
+RUN-002,7,banana bunchy top,36.028710
+RUN-002,8,banana cigar end rot,76.078127
+RUN-002,9,banana cordana leaf spot,68.784054
+RUN-002,10,banana panama disease,93.364754
+RUN-002,11,basil downy mildew,56.984949
+RUN-002,12,bean halo blight,16.538584
+RUN-002,13,bean mosaic virus,1.691826
+RUN-002,14,bean rust,41.178905
+RUN-002,15,bell pepper bacterial spot,18.929569
+RUN-002,16,bell pepper blossom end rot,89.115619
+RUN-002,17,bell pepper frogeye leaf spot,2.112727
+RUN-002,18,bell pepper powdery mildew,55.057826
+RUN-002,19,blueberry anthracnose,0.008598
+RUN-002,20,blueberry botrytis blight,48.363197
+RUN-002,21,blueberry mummy berry,45.304501
+RUN-002,22,blueberry rust,19.744214
+RUN-002,23,blueberry scorch,53.978319
+RUN-002,24,broccoli alternaria leaf spot,6.165716
+RUN-002,25,broccoli downy mildew,0.000000
+RUN-002,26,broccoli ring spot,1.995275
+RUN-002,27,cabbage alternaria leaf spot,4.962449
+RUN-002,28,cabbage black rot,64.085555
+RUN-002,29,cabbage downy mildew,54.236970
+RUN-002,30,carrot alternaria leaf blight,49.599149
+RUN-002,31,carrot cavity spot,27.323791
+RUN-002,32,carrot cercospora leaf blight,18.922927
+RUN-002,33,cauliflower alternaria leaf spot,0.597894
+RUN-002,34,cauliflower bacterial soft rot,35.539663
+RUN-002,35,celery anthracnose,7.737962
+RUN-002,36,celery early blight,52.748887
+RUN-002,37,cherry leaf spot,15.435256
+RUN-002,38,cherry powdery mildew,48.931057
+RUN-002,39,citrus canker,40.307568
+RUN-002,40,citrus greening disease,40.034661
+RUN-002,41,coffee berry blotch,31.986773
+RUN-002,42,coffee black rot,
+RUN-002,43,coffee brown eye spot,44.928193
+RUN-002,44,coffee leaf rust,66.026082
+RUN-002,45,corn gray leaf spot,11.537580
+RUN-002,46,corn northern leaf blight,9.000722
+RUN-002,47,corn rust,60.287931
+RUN-002,48,corn smut,85.950766
+RUN-002,49,cucumber angular leaf spot,44.862828
+RUN-002,50,cucumber bacterial wilt,41.733349
+RUN-002,51,cucumber powdery mildew,16.706300
+RUN-002,52,eggplant cercospora leaf spot,7.244343
+RUN-002,53,eggplant phomopsis fruit rot,66.403061
+RUN-002,54,eggplant phytophthora blight,78.198071
+RUN-002,55,garlic leaf blight,13.203535
+RUN-002,56,garlic rust,33.505578
+RUN-002,57,ginger leaf spot,51.689595
+RUN-002,58,ginger sheath blight,1.162739
+RUN-002,59,grape black rot,58.363976
+RUN-002,60,grape downy mildew,63.651619
+RUN-002,61,grape leaf spot,47.002787
+RUN-002,62,grapevine leafroll disease,59.505986
+RUN-002,63,lettuce downy mildew,51.385009
+RUN-002,64,lettuce mosaic virus,4.661072
+RUN-002,65,maple tar spot,24.481889
+RUN-002,66,peach anthracnose,0.000000
+RUN-002,67,peach brown rot,74.463566
+RUN-002,68,peach leaf curl,66.617353
+RUN-002,69,peach rust,0.000000
+RUN-002,70,peach scab,84.329606
+RUN-002,71,plum bacterial spot,0.000000
+RUN-002,72,plum brown rot,72.245922
+RUN-002,73,plum pocket disease,26.116361
+RUN-002,74,plum pox virus,66.964279
+RUN-002,75,plum rust,2.687223
+RUN-002,76,potato early blight,10.278112
+RUN-002,77,potato late blight,27.496910
+RUN-002,78,raspberry fire blight,61.696097
+RUN-002,79,raspberry gray mold,74.693335
+RUN-002,80,raspberry leaf spot,40.352838
+RUN-002,81,raspberry yellow rust,90.212351
+RUN-002,82,rice blast,46.155336
+RUN-002,83,rice sheath blight,21.678977
+RUN-002,84,soybean bacterial blight,43.841692
+RUN-002,85,soybean brown spot,17.947145
+RUN-002,86,soybean downy mildew,68.520491
+RUN-002,87,soybean frog eye leaf spot,69.438974
+RUN-002,88,soybean mosaic,59.657420
+RUN-002,89,soybean rust,42.311879
+RUN-002,90,squash powdery mildew,12.969965
+RUN-002,91,strawberry anthracnose,64.586501
+RUN-002,92,strawberry leaf scorch,55.634617
+RUN-002,93,tobacco blue mold,20.438095
+RUN-002,94,tobacco brown spot,38.116647
+RUN-002,95,tobacco frogeye leaf spot,1.427649
+RUN-002,96,tobacco mosaic virus,66.764087
+RUN-002,97,tomato bacterial leaf spot,13.485522
+RUN-002,98,tomato early blight,36.151234
+RUN-002,99,tomato late blight,36.049452
+RUN-002,100,tomato leaf mold,57.324601
+RUN-002,101,tomato mosaic virus,24.043091
+RUN-002,102,tomato septoria leaf spot,12.806786
+RUN-002,103,tomato yellow leaf curl virus,31.437740
+RUN-002,104,wheat bacterial leaf streak (black chaff),23.506471
+RUN-002,105,wheat head scab,54.160749
+RUN-002,106,wheat leaf rust,58.611319
+RUN-002,107,wheat loose smut,85.890555
+RUN-002,108,wheat powdery mildew,73.013919
+RUN-002,109,wheat septoria blotch,55.680640
+RUN-002,110,wheat stem rust,74.621205
+RUN-002,111,wheat stripe rust,69.599179
+RUN-002,112,zucchini bacterial wilt,16.827528
+RUN-002,113,zucchini downy mildew,29.008880
+RUN-002,114,zucchini powdery mildew,30.074356
+RUN-002,115,zucchini yellow mosaic virus,57.810574
+RUN-003,0,background,90.962153
+RUN-003,1,apple black rot,29.353905
+RUN-003,2,apple mosaic virus,71.098304
+RUN-003,3,apple rust,27.368022
+RUN-003,4,apple scab,54.626540
+RUN-003,5,banana anthracnose,69.086709
+RUN-003,6,banana black leaf streak,84.282407
+RUN-003,7,banana bunchy top,37.637560
+RUN-003,8,banana cigar end rot,52.096996
+RUN-003,9,banana cordana leaf spot,67.186151
+RUN-003,10,banana panama disease,18.526430
+RUN-003,11,basil downy mildew,55.602669
+RUN-003,12,bean halo blight,30.290677
+RUN-003,13,bean mosaic virus,0.000000
+RUN-003,14,bean rust,32.856931
+RUN-003,15,bell pepper bacterial spot,24.010122
+RUN-003,16,bell pepper blossom end rot,85.306792
+RUN-003,17,bell pepper frogeye leaf spot,2.051045
+RUN-003,18,bell pepper powdery mildew,47.962535
+RUN-003,19,blueberry anthracnose,32.588041
+RUN-003,20,blueberry botrytis blight,3.948179
+RUN-003,21,blueberry mummy berry,29.543222
+RUN-003,22,blueberry rust,10.619940
+RUN-003,23,blueberry scorch,40.748921
+RUN-003,24,broccoli alternaria leaf spot,5.002443
+RUN-003,25,broccoli downy mildew,0.579104
+RUN-003,26,broccoli ring spot,0.000000
+RUN-003,27,cabbage alternaria leaf spot,3.039326
+RUN-003,28,cabbage black rot,60.678425
+RUN-003,29,cabbage downy mildew,50.241706
+RUN-003,30,carrot alternaria leaf blight,49.476484
+RUN-003,31,carrot cavity spot,24.097220
+RUN-003,32,carrot cercospora leaf blight,40.801083
+RUN-003,33,cauliflower alternaria leaf spot,0.705653
+RUN-003,34,cauliflower bacterial soft rot,12.593984
+RUN-003,35,celery anthracnose,0.000000
+RUN-003,36,celery early blight,64.578609
+RUN-003,37,cherry leaf spot,15.028245
+RUN-003,38,cherry powdery mildew,36.776651
+RUN-003,39,citrus canker,42.247775
+RUN-003,40,citrus greening disease,47.424004
+RUN-003,41,coffee berry blotch,32.897362
+RUN-003,42,coffee black rot,
+RUN-003,43,coffee brown eye spot,50.007582
+RUN-003,44,coffee leaf rust,66.546575
+RUN-003,45,corn gray leaf spot,8.490056
+RUN-003,46,corn northern leaf blight,25.746520
+RUN-003,47,corn rust,76.778821
+RUN-003,48,corn smut,85.804013
+RUN-003,49,cucumber angular leaf spot,63.467323
+RUN-003,50,cucumber bacterial wilt,42.785157
+RUN-003,51,cucumber powdery mildew,28.562636
+RUN-003,52,eggplant cercospora leaf spot,4.176185
+RUN-003,53,eggplant phomopsis fruit rot,55.012432
+RUN-003,54,eggplant phytophthora blight,72.121652
+RUN-003,55,garlic leaf blight,10.573024
+RUN-003,56,garlic rust,48.659998
+RUN-003,57,ginger leaf spot,42.836994
+RUN-003,58,ginger sheath blight,2.425399
+RUN-003,59,grape black rot,54.016078
+RUN-003,60,grape downy mildew,54.110613
+RUN-003,61,grape leaf spot,45.601314
+RUN-003,62,grapevine leafroll disease,68.407106
+RUN-003,63,lettuce downy mildew,59.755793
+RUN-003,64,lettuce mosaic virus,0.869460
+RUN-003,65,maple tar spot,26.867377
+RUN-003,66,peach anthracnose,63.931142
+RUN-003,67,peach brown rot,78.104719
+RUN-003,68,peach leaf curl,68.462770
+RUN-003,69,peach rust,21.793869
+RUN-003,70,peach scab,81.988778
+RUN-003,71,plum bacterial spot,0.000000
+RUN-003,72,plum brown rot,76.715097
+RUN-003,73,plum pocket disease,40.796307
+RUN-003,74,plum pox virus,60.025601
+RUN-003,75,plum rust,2.532920
+RUN-003,76,potato early blight,11.417696
+RUN-003,77,potato late blight,45.112662
+RUN-003,78,raspberry fire blight,56.108265
+RUN-003,79,raspberry gray mold,71.606264
+RUN-003,80,raspberry leaf spot,5.273461
+RUN-003,81,raspberry yellow rust,41.281695
+RUN-003,82,rice blast,37.899075
+RUN-003,83,rice sheath blight,26.347622
+RUN-003,84,soybean bacterial blight,53.635608
+RUN-003,85,soybean brown spot,14.681333
+RUN-003,86,soybean downy mildew,65.650228
+RUN-003,87,soybean frog eye leaf spot,67.883958
+RUN-003,88,soybean mosaic,64.477682
+RUN-003,89,soybean rust,48.396356
+RUN-003,90,squash powdery mildew,20.547542
+RUN-003,91,strawberry anthracnose,63.663042
+RUN-003,92,strawberry leaf scorch,53.245387
+RUN-003,93,tobacco blue mold,14.651303
+RUN-003,94,tobacco brown spot,30.905956
+RUN-003,95,tobacco frogeye leaf spot,0.000000
+RUN-003,96,tobacco mosaic virus,71.761704
+RUN-003,97,tomato bacterial leaf spot,19.924661
+RUN-003,98,tomato early blight,38.965736
+RUN-003,99,tomato late blight,36.927149
+RUN-003,100,tomato leaf mold,53.882246
+RUN-003,101,tomato mosaic virus,26.768386
+RUN-003,102,tomato septoria leaf spot,5.895215
+RUN-003,103,tomato yellow leaf curl virus,39.113934
+RUN-003,104,wheat bacterial leaf streak (black chaff),11.309437
+RUN-003,105,wheat head scab,43.057254
+RUN-003,106,wheat leaf rust,54.270993
+RUN-003,107,wheat loose smut,84.347920
+RUN-003,108,wheat powdery mildew,58.650621
+RUN-003,109,wheat septoria blotch,53.788232
+RUN-003,110,wheat stem rust,74.308110
+RUN-003,111,wheat stripe rust,60.639099
+RUN-003,112,zucchini bacterial wilt,17.489615
+RUN-003,113,zucchini downy mildew,26.138043
+RUN-003,114,zucchini powdery mildew,34.282469
+RUN-003,115,zucchini yellow mosaic virus,64.185632
+RUN-004,0,background,91.463298
+RUN-004,1,apple black rot,13.535388
+RUN-004,2,apple mosaic virus,59.672241
+RUN-004,3,apple rust,46.431875
+RUN-004,4,apple scab,51.552077
+RUN-004,5,banana anthracnose,52.202515
+RUN-004,6,banana black leaf streak,87.407355
+RUN-004,7,banana bunchy top,33.634693
+RUN-004,8,banana cigar end rot,64.106824
+RUN-004,9,banana cordana leaf spot,79.844124
+RUN-004,10,banana panama disease,92.872403
+RUN-004,11,basil downy mildew,54.454068
+RUN-004,12,bean halo blight,24.434701
+RUN-004,13,bean mosaic virus,3.483596
+RUN-004,14,bean rust,42.318173
+RUN-004,15,bell pepper bacterial spot,20.657674
+RUN-004,16,bell pepper blossom end rot,81.917501
+RUN-004,17,bell pepper frogeye leaf spot,1.534723
+RUN-004,18,bell pepper powdery mildew,46.692009
+RUN-004,19,blueberry anthracnose,16.089527
+RUN-004,20,blueberry botrytis blight,67.579306
+RUN-004,21,blueberry mummy berry,22.095069
+RUN-004,22,blueberry rust,11.630953
+RUN-004,23,blueberry scorch,56.243366
+RUN-004,24,broccoli alternaria leaf spot,5.231054
+RUN-004,25,broccoli downy mildew,6.974706
+RUN-004,26,broccoli ring spot,0.583975
+RUN-004,27,cabbage alternaria leaf spot,0.006884
+RUN-004,28,cabbage black rot,64.433824
+RUN-004,29,cabbage downy mildew,48.812823
+RUN-004,30,carrot alternaria leaf blight,54.779640
+RUN-004,31,carrot cavity spot,25.581339
+RUN-004,32,carrot cercospora leaf blight,39.691095
+RUN-004,33,cauliflower alternaria leaf spot,0.284129
+RUN-004,34,cauliflower bacterial soft rot,50.552580
+RUN-004,35,celery anthracnose,31.726042
+RUN-004,36,celery early blight,62.844641
+RUN-004,37,cherry leaf spot,22.393183
+RUN-004,38,cherry powdery mildew,45.009804
+RUN-004,39,citrus canker,47.176105
+RUN-004,40,citrus greening disease,41.322842
+RUN-004,41,coffee berry blotch,29.205085
+RUN-004,42,coffee black rot,
+RUN-004,43,coffee brown eye spot,51.710163
+RUN-004,44,coffee leaf rust,71.046780
+RUN-004,45,corn gray leaf spot,12.219004
+RUN-004,46,corn northern leaf blight,16.791892
+RUN-004,47,corn rust,68.225803
+RUN-004,48,corn smut,85.554405
+RUN-004,49,cucumber angular leaf spot,44.108674
+RUN-004,50,cucumber bacterial wilt,40.630637
+RUN-004,51,cucumber powdery mildew,5.915078
+RUN-004,52,eggplant cercospora leaf spot,5.101878
+RUN-004,53,eggplant phomopsis fruit rot,24.448056
+RUN-004,54,eggplant phytophthora blight,76.035047
+RUN-004,55,garlic leaf blight,11.360200
+RUN-004,56,garlic rust,37.178794
+RUN-004,57,ginger leaf spot,43.954984
+RUN-004,58,ginger sheath blight,1.068475
+RUN-004,59,grape black rot,60.964016
+RUN-004,60,grape downy mildew,51.792467
+RUN-004,61,grape leaf spot,52.713839
+RUN-004,62,grapevine leafroll disease,67.635643
+RUN-004,63,lettuce downy mildew,57.705609
+RUN-004,64,lettuce mosaic virus,4.749928
+RUN-004,65,maple tar spot,30.150727
+RUN-004,66,peach anthracnose,0.000000
+RUN-004,67,peach brown rot,78.072693
+RUN-004,68,peach leaf curl,68.592287
+RUN-004,69,peach rust,2.679225
+RUN-004,70,peach scab,78.888127
+RUN-004,71,plum bacterial spot,0.000000
+RUN-004,72,plum brown rot,75.908315
+RUN-004,73,plum pocket disease,21.100875
+RUN-004,74,plum pox virus,66.899254
+RUN-004,75,plum rust,63.686205
+RUN-004,76,potato early blight,10.974574
+RUN-004,77,potato late blight,32.819565
+RUN-004,78,raspberry fire blight,63.710969
+RUN-004,79,raspberry gray mold,72.984783
+RUN-004,80,raspberry leaf spot,57.135699
+RUN-004,81,raspberry yellow rust,88.000470
+RUN-004,82,rice blast,48.349583
+RUN-004,83,rice sheath blight,28.419730
+RUN-004,84,soybean bacterial blight,53.008573
+RUN-004,85,soybean brown spot,15.322077
+RUN-004,86,soybean downy mildew,64.178834
+RUN-004,87,soybean frog eye leaf spot,69.421056
+RUN-004,88,soybean mosaic,63.869974
+RUN-004,89,soybean rust,67.528538
+RUN-004,90,squash powdery mildew,19.265673
+RUN-004,91,strawberry anthracnose,65.057600
+RUN-004,92,strawberry leaf scorch,58.013725
+RUN-004,93,tobacco blue mold,31.954421
+RUN-004,94,tobacco brown spot,16.472313
+RUN-004,95,tobacco frogeye leaf spot,0.831703
+RUN-004,96,tobacco mosaic virus,68.771508
+RUN-004,97,tomato bacterial leaf spot,3.952443
+RUN-004,98,tomato early blight,33.552973
+RUN-004,99,tomato late blight,48.811269
+RUN-004,100,tomato leaf mold,57.714141
+RUN-004,101,tomato mosaic virus,32.676704
+RUN-004,102,tomato septoria leaf spot,21.648952
+RUN-004,103,tomato yellow leaf curl virus,38.898690
+RUN-004,104,wheat bacterial leaf streak (black chaff),11.289173
+RUN-004,105,wheat head scab,45.838085
+RUN-004,106,wheat leaf rust,58.305668
+RUN-004,107,wheat loose smut,80.941001
+RUN-004,108,wheat powdery mildew,70.836464
+RUN-004,109,wheat septoria blotch,54.032889
+RUN-004,110,wheat stem rust,74.359311
+RUN-004,111,wheat stripe rust,60.607082
+RUN-004,112,zucchini bacterial wilt,16.720651
+RUN-004,113,zucchini downy mildew,22.474608
+RUN-004,114,zucchini powdery mildew,28.516883
+RUN-004,115,zucchini yellow mosaic virus,66.959792
+RUN-005,0,background,91.236232
+RUN-005,1,apple black rot,40.080732
+RUN-005,2,apple mosaic virus,64.926423
+RUN-005,3,apple rust,52.268713
+RUN-005,4,apple scab,55.946096
+RUN-005,5,banana anthracnose,43.868249
+RUN-005,6,banana black leaf streak,87.584233
+RUN-005,7,banana bunchy top,31.057061
+RUN-005,8,banana cigar end rot,39.379911
+RUN-005,9,banana cordana leaf spot,85.108477
+RUN-005,10,banana panama disease,85.750707
+RUN-005,11,basil downy mildew,43.496689
+RUN-005,12,bean halo blight,22.068945
+RUN-005,13,bean mosaic virus,18.773838
+RUN-005,14,bean rust,26.912965
+RUN-005,15,bell pepper bacterial spot,20.357488
+RUN-005,16,bell pepper blossom end rot,79.676989
+RUN-005,17,bell pepper frogeye leaf spot,2.570833
+RUN-005,18,bell pepper powdery mildew,44.291530
+RUN-005,19,blueberry anthracnose,18.993682
+RUN-005,20,blueberry botrytis blight,7.898775
+RUN-005,21,blueberry mummy berry,6.202376
+RUN-005,22,blueberry rust,32.521204
+RUN-005,23,blueberry scorch,59.736853
+RUN-005,24,broccoli alternaria leaf spot,16.022380
+RUN-005,25,broccoli downy mildew,0.004536
+RUN-005,26,broccoli ring spot,0.000000
+RUN-005,27,cabbage alternaria leaf spot,5.042892
+RUN-005,28,cabbage black rot,55.786427
+RUN-005,29,cabbage downy mildew,50.010404
+RUN-005,30,carrot alternaria leaf blight,56.603562
+RUN-005,31,carrot cavity spot,31.293043
+RUN-005,32,carrot cercospora leaf blight,18.618522
+RUN-005,33,cauliflower alternaria leaf spot,0.198880
+RUN-005,34,cauliflower bacterial soft rot,13.849875
+RUN-005,35,celery anthracnose,9.392741
+RUN-005,36,celery early blight,59.802455
+RUN-005,37,cherry leaf spot,31.097807
+RUN-005,38,cherry powdery mildew,46.935629
+RUN-005,39,citrus canker,36.885049
+RUN-005,40,citrus greening disease,39.650751
+RUN-005,41,coffee berry blotch,23.216889
+RUN-005,42,coffee black rot,
+RUN-005,43,coffee brown eye spot,10.333852
+RUN-005,44,coffee leaf rust,66.622100
+RUN-005,45,corn gray leaf spot,9.898559
+RUN-005,46,corn northern leaf blight,14.445917
+RUN-005,47,corn rust,57.901729
+RUN-005,48,corn smut,87.447567
+RUN-005,49,cucumber angular leaf spot,42.981828
+RUN-005,50,cucumber bacterial wilt,35.865888
+RUN-005,51,cucumber powdery mildew,18.407227
+RUN-005,52,eggplant cercospora leaf spot,4.925786
+RUN-005,53,eggplant phomopsis fruit rot,62.306196
+RUN-005,54,eggplant phytophthora blight,72.900804
+RUN-005,55,garlic leaf blight,43.103128
+RUN-005,56,garlic rust,39.640512
+RUN-005,57,ginger leaf spot,40.738367
+RUN-005,58,ginger sheath blight,18.991592
+RUN-005,59,grape black rot,55.155936
+RUN-005,60,grape downy mildew,47.544686
+RUN-005,61,grape leaf spot,35.274668
+RUN-005,62,grapevine leafroll disease,65.638045
+RUN-005,63,lettuce downy mildew,55.499933
+RUN-005,64,lettuce mosaic virus,33.081778
+RUN-005,65,maple tar spot,30.140956
+RUN-005,66,peach anthracnose,18.057509
+RUN-005,67,peach brown rot,85.756374
+RUN-005,68,peach leaf curl,60.316487
+RUN-005,69,peach rust,0.960540
+RUN-005,70,peach scab,71.967081
+RUN-005,71,plum bacterial spot,0.000000
+RUN-005,72,plum brown rot,75.428938
+RUN-005,73,plum pocket disease,27.323439
+RUN-005,74,plum pox virus,44.909702
+RUN-005,75,plum rust,2.710863
+RUN-005,76,potato early blight,7.458808
+RUN-005,77,potato late blight,51.572174
+RUN-005,78,raspberry fire blight,69.325348
+RUN-005,79,raspberry gray mold,77.992857
+RUN-005,80,raspberry leaf spot,59.027142
+RUN-005,81,raspberry yellow rust,40.834424
+RUN-005,82,rice blast,18.802558
+RUN-005,83,rice sheath blight,33.050078
+RUN-005,84,soybean bacterial blight,57.772542
+RUN-005,85,soybean brown spot,34.920077
+RUN-005,86,soybean downy mildew,61.809549
+RUN-005,87,soybean frog eye leaf spot,76.934598
+RUN-005,88,soybean mosaic,40.908968
+RUN-005,89,soybean rust,35.641243
+RUN-005,90,squash powdery mildew,29.740143
+RUN-005,91,strawberry anthracnose,64.557647
+RUN-005,92,strawberry leaf scorch,57.754156
+RUN-005,93,tobacco blue mold,35.072614
+RUN-005,94,tobacco brown spot,36.109159
+RUN-005,95,tobacco frogeye leaf spot,8.992004
+RUN-005,96,tobacco mosaic virus,51.796744
+RUN-005,97,tomato bacterial leaf spot,6.545150
+RUN-005,98,tomato early blight,35.278081
+RUN-005,99,tomato late blight,46.227878
+RUN-005,100,tomato leaf mold,59.724079
+RUN-005,101,tomato mosaic virus,17.705391
+RUN-005,102,tomato septoria leaf spot,10.981960
+RUN-005,103,tomato yellow leaf curl virus,37.754388
+RUN-005,104,wheat bacterial leaf streak (black chaff),16.851417
+RUN-005,105,wheat head scab,48.776642
+RUN-005,106,wheat leaf rust,57.708744
+RUN-005,107,wheat loose smut,84.213015
+RUN-005,108,wheat powdery mildew,73.704569
+RUN-005,109,wheat septoria blotch,53.658710
+RUN-005,110,wheat stem rust,73.069614
+RUN-005,111,wheat stripe rust,69.014430
+RUN-005,112,zucchini bacterial wilt,23.795133
+RUN-005,113,zucchini downy mildew,29.415499
+RUN-005,114,zucchini powdery mildew,16.050624
+RUN-005,115,zucchini yellow mosaic virus,70.572228
+RUN-006,0,background,91.195677
+RUN-006,1,apple black rot,14.413436
+RUN-006,2,apple mosaic virus,72.036511
+RUN-006,3,apple rust,59.020579
+RUN-006,4,apple scab,54.511451
+RUN-006,5,banana anthracnose,67.509279
+RUN-006,6,banana black leaf streak,82.553077
+RUN-006,7,banana bunchy top,27.536355
+RUN-006,8,banana cigar end rot,57.708574
+RUN-006,9,banana cordana leaf spot,58.708363
+RUN-006,10,banana panama disease,4.745103
+RUN-006,11,basil downy mildew,47.935419
+RUN-006,12,bean halo blight,13.463690
+RUN-006,13,bean mosaic virus,9.993978
+RUN-006,14,bean rust,33.039196
+RUN-006,15,bell pepper bacterial spot,2.972390
+RUN-006,16,bell pepper blossom end rot,85.832283
+RUN-006,17,bell pepper frogeye leaf spot,3.318130
+RUN-006,18,bell pepper powdery mildew,56.199491
+RUN-006,19,blueberry anthracnose,9.298848
+RUN-006,20,blueberry botrytis blight,0.000000
+RUN-006,21,blueberry mummy berry,50.679797
+RUN-006,22,blueberry rust,23.804920
+RUN-006,23,blueberry scorch,45.195494
+RUN-006,24,broccoli alternaria leaf spot,17.011159
+RUN-006,25,broccoli downy mildew,11.893377
+RUN-006,26,broccoli ring spot,0.000000
+RUN-006,27,cabbage alternaria leaf spot,0.000000
+RUN-006,28,cabbage black rot,61.769811
+RUN-006,29,cabbage downy mildew,53.364506
+RUN-006,30,carrot alternaria leaf blight,46.814979
+RUN-006,31,carrot cavity spot,35.703770
+RUN-006,32,carrot cercospora leaf blight,10.337955
+RUN-006,33,cauliflower alternaria leaf spot,3.438353
+RUN-006,34,cauliflower bacterial soft rot,34.814817
+RUN-006,35,celery anthracnose,6.212784
+RUN-006,36,celery early blight,63.348954
+RUN-006,37,cherry leaf spot,22.616989
+RUN-006,38,cherry powdery mildew,40.866870
+RUN-006,39,citrus canker,47.247526
+RUN-006,40,citrus greening disease,38.574199
+RUN-006,41,coffee berry blotch,25.317485
+RUN-006,42,coffee black rot,
+RUN-006,43,coffee brown eye spot,7.443531
+RUN-006,44,coffee leaf rust,69.018751
+RUN-006,45,corn gray leaf spot,9.295514
+RUN-006,46,corn northern leaf blight,27.279416
+RUN-006,47,corn rust,66.205287
+RUN-006,48,corn smut,87.090051
+RUN-006,49,cucumber angular leaf spot,45.525392
+RUN-006,50,cucumber bacterial wilt,41.100004
+RUN-006,51,cucumber powdery mildew,16.435784
+RUN-006,52,eggplant cercospora leaf spot,1.105613
+RUN-006,53,eggplant phomopsis fruit rot,20.121975
+RUN-006,54,eggplant phytophthora blight,38.067015
+RUN-006,55,garlic leaf blight,35.926125
+RUN-006,56,garlic rust,35.836399
+RUN-006,57,ginger leaf spot,43.572882
+RUN-006,58,ginger sheath blight,21.540514
+RUN-006,59,grape black rot,42.867492
+RUN-006,60,grape downy mildew,50.565182
+RUN-006,61,grape leaf spot,18.000129
+RUN-006,62,grapevine leafroll disease,58.742086
+RUN-006,63,lettuce downy mildew,49.929706
+RUN-006,64,lettuce mosaic virus,4.838608
+RUN-006,65,maple tar spot,34.780877
+RUN-006,66,peach anthracnose,0.000000
+RUN-006,67,peach brown rot,69.591837
+RUN-006,68,peach leaf curl,65.359199
+RUN-006,69,peach rust,15.187495
+RUN-006,70,peach scab,60.545062
+RUN-006,71,plum bacterial spot,0.000000
+RUN-006,72,plum brown rot,65.374402
+RUN-006,73,plum pocket disease,26.744439
+RUN-006,74,plum pox virus,53.923085
+RUN-006,75,plum rust,2.638564
+RUN-006,76,potato early blight,9.009708
+RUN-006,77,potato late blight,45.747914
+RUN-006,78,raspberry fire blight,69.518206
+RUN-006,79,raspberry gray mold,70.233089
+RUN-006,80,raspberry leaf spot,37.336827
+RUN-006,81,raspberry yellow rust,89.168025
+RUN-006,82,rice blast,36.250506
+RUN-006,83,rice sheath blight,39.146226
+RUN-006,84,soybean bacterial blight,63.812776
+RUN-006,85,soybean brown spot,17.595234
+RUN-006,86,soybean downy mildew,68.418371
+RUN-006,87,soybean frog eye leaf spot,76.971576
+RUN-006,88,soybean mosaic,69.414107
+RUN-006,89,soybean rust,36.923657
+RUN-006,90,squash powdery mildew,31.317217
+RUN-006,91,strawberry anthracnose,60.888276
+RUN-006,92,strawberry leaf scorch,56.947994
+RUN-006,93,tobacco blue mold,29.135179
+RUN-006,94,tobacco brown spot,37.966405
+RUN-006,95,tobacco frogeye leaf spot,3.860760
+RUN-006,96,tobacco mosaic virus,55.089360
+RUN-006,97,tomato bacterial leaf spot,16.930144
+RUN-006,98,tomato early blight,41.588565
+RUN-006,99,tomato late blight,46.588951
+RUN-006,100,tomato leaf mold,54.261002
+RUN-006,101,tomato mosaic virus,13.649310
+RUN-006,102,tomato septoria leaf spot,10.353931
+RUN-006,103,tomato yellow leaf curl virus,31.952054
+RUN-006,104,wheat bacterial leaf streak (black chaff),8.485841
+RUN-006,105,wheat head scab,47.039882
+RUN-006,106,wheat leaf rust,49.898474
+RUN-006,107,wheat loose smut,83.051681
+RUN-006,108,wheat powdery mildew,70.862466
+RUN-006,109,wheat septoria blotch,46.358130
+RUN-006,110,wheat stem rust,69.293474
+RUN-006,111,wheat stripe rust,59.165028
+RUN-006,112,zucchini bacterial wilt,21.362924
+RUN-006,113,zucchini downy mildew,13.226521
+RUN-006,114,zucchini powdery mildew,14.535328
+RUN-006,115,zucchini yellow mosaic virus,66.789789
+RUN-007,0,background,91.372024
+RUN-007,1,apple black rot,9.978110
+RUN-007,2,apple mosaic virus,73.793300
+RUN-007,3,apple rust,58.879935
+RUN-007,4,apple scab,55.192433
+RUN-007,5,banana anthracnose,54.549698
+RUN-007,6,banana black leaf streak,85.020786
+RUN-007,7,banana bunchy top,29.817773
+RUN-007,8,banana cigar end rot,50.735171
+RUN-007,9,banana cordana leaf spot,47.863150
+RUN-007,10,banana panama disease,92.357311
+RUN-007,11,basil downy mildew,45.881531
+RUN-007,12,bean halo blight,19.316996
+RUN-007,13,bean mosaic virus,5.904925
+RUN-007,14,bean rust,40.596473
+RUN-007,15,bell pepper bacterial spot,23.329209
+RUN-007,16,bell pepper blossom end rot,83.167641
+RUN-007,17,bell pepper frogeye leaf spot,2.179480
+RUN-007,18,bell pepper powdery mildew,46.990560
+RUN-007,19,blueberry anthracnose,19.623712
+RUN-007,20,blueberry botrytis blight,0.000000
+RUN-007,21,blueberry mummy berry,5.874584
+RUN-007,22,blueberry rust,36.531628
+RUN-007,23,blueberry scorch,52.656942
+RUN-007,24,broccoli alternaria leaf spot,17.621477
+RUN-007,25,broccoli downy mildew,6.405862
+RUN-007,26,broccoli ring spot,0.000000
+RUN-007,27,cabbage alternaria leaf spot,0.000000
+RUN-007,28,cabbage black rot,59.772966
+RUN-007,29,cabbage downy mildew,53.391903
+RUN-007,30,carrot alternaria leaf blight,49.611110
+RUN-007,31,carrot cavity spot,31.445709
+RUN-007,32,carrot cercospora leaf blight,17.545994
+RUN-007,33,cauliflower alternaria leaf spot,0.000000
+RUN-007,34,cauliflower bacterial soft rot,14.202932
+RUN-007,35,celery anthracnose,20.810038
+RUN-007,36,celery early blight,65.614209
+RUN-007,37,cherry leaf spot,31.958056
+RUN-007,38,cherry powdery mildew,33.976026
+RUN-007,39,citrus canker,44.887354
+RUN-007,40,citrus greening disease,51.466479
+RUN-007,41,coffee berry blotch,23.901002
+RUN-007,42,coffee black rot,
+RUN-007,43,coffee brown eye spot,12.398577
+RUN-007,44,coffee leaf rust,62.611797
+RUN-007,45,corn gray leaf spot,10.025336
+RUN-007,46,corn northern leaf blight,23.428007
+RUN-007,47,corn rust,53.035246
+RUN-007,48,corn smut,83.775404
+RUN-007,49,cucumber angular leaf spot,45.599998
+RUN-007,50,cucumber bacterial wilt,39.159860
+RUN-007,51,cucumber powdery mildew,15.814139
+RUN-007,52,eggplant cercospora leaf spot,1.366596
+RUN-007,53,eggplant phomopsis fruit rot,44.426646
+RUN-007,54,eggplant phytophthora blight,75.163684
+RUN-007,55,garlic leaf blight,44.849408
+RUN-007,56,garlic rust,38.230946
+RUN-007,57,ginger leaf spot,46.220136
+RUN-007,58,ginger sheath blight,22.713646
+RUN-007,59,grape black rot,55.748118
+RUN-007,60,grape downy mildew,57.676296
+RUN-007,61,grape leaf spot,46.562857
+RUN-007,62,grapevine leafroll disease,65.445918
+RUN-007,63,lettuce downy mildew,61.651945
+RUN-007,64,lettuce mosaic virus,2.132305
+RUN-007,65,maple tar spot,28.878475
+RUN-007,66,peach anthracnose,8.691999
+RUN-007,67,peach brown rot,80.923706
+RUN-007,68,peach leaf curl,75.604289
+RUN-007,69,peach rust,28.604981
+RUN-007,70,peach scab,72.164363
+RUN-007,71,plum bacterial spot,0.000000
+RUN-007,72,plum brown rot,71.035136
+RUN-007,73,plum pocket disease,0.483522
+RUN-007,74,plum pox virus,55.030517
+RUN-007,75,plum rust,2.611611
+RUN-007,76,potato early blight,17.725649
+RUN-007,77,potato late blight,22.876905
+RUN-007,78,raspberry fire blight,57.378827
+RUN-007,79,raspberry gray mold,74.757542
+RUN-007,80,raspberry leaf spot,22.847601
+RUN-007,81,raspberry yellow rust,89.519600
+RUN-007,82,rice blast,35.541528
+RUN-007,83,rice sheath blight,40.375547
+RUN-007,84,soybean bacterial blight,57.747679
+RUN-007,85,soybean brown spot,19.978935
+RUN-007,86,soybean downy mildew,60.297892
+RUN-007,87,soybean frog eye leaf spot,77.012825
+RUN-007,88,soybean mosaic,59.684010
+RUN-007,89,soybean rust,47.420534
+RUN-007,90,squash powdery mildew,28.428207
+RUN-007,91,strawberry anthracnose,68.733576
+RUN-007,92,strawberry leaf scorch,46.751182
+RUN-007,93,tobacco blue mold,15.061367
+RUN-007,94,tobacco brown spot,43.560074
+RUN-007,95,tobacco frogeye leaf spot,7.156271
+RUN-007,96,tobacco mosaic virus,24.599356
+RUN-007,97,tomato bacterial leaf spot,19.005160
+RUN-007,98,tomato early blight,35.805527
+RUN-007,99,tomato late blight,43.808821
+RUN-007,100,tomato leaf mold,55.632580
+RUN-007,101,tomato mosaic virus,17.968954
+RUN-007,102,tomato septoria leaf spot,11.035991
+RUN-007,103,tomato yellow leaf curl virus,29.566452
+RUN-007,104,wheat bacterial leaf streak (black chaff),6.678931
+RUN-007,105,wheat head scab,46.306541
+RUN-007,106,wheat leaf rust,57.370124
+RUN-007,107,wheat loose smut,79.647750
+RUN-007,108,wheat powdery mildew,63.865197
+RUN-007,109,wheat septoria blotch,57.359740
+RUN-007,110,wheat stem rust,72.414310
+RUN-007,111,wheat stripe rust,66.082946
+RUN-007,112,zucchini bacterial wilt,15.477717
+RUN-007,113,zucchini downy mildew,9.901142
+RUN-007,114,zucchini powdery mildew,19.044794
+RUN-007,115,zucchini yellow mosaic virus,50.716590
+RUN-008,0,background,91.461359
+RUN-008,1,apple black rot,33.761281
+RUN-008,2,apple mosaic virus,74.811012
+RUN-008,3,apple rust,47.768404
+RUN-008,4,apple scab,49.475322
+RUN-008,5,banana anthracnose,64.491721
+RUN-008,6,banana black leaf streak,80.819507
+RUN-008,7,banana bunchy top,32.621751
+RUN-008,8,banana cigar end rot,64.953341
+RUN-008,9,banana cordana leaf spot,47.002039
+RUN-008,10,banana panama disease,65.749203
+RUN-008,11,basil downy mildew,56.086600
+RUN-008,12,bean halo blight,26.626834
+RUN-008,13,bean mosaic virus,0.000000
+RUN-008,14,bean rust,38.219264
+RUN-008,15,bell pepper bacterial spot,12.986806
+RUN-008,16,bell pepper blossom end rot,86.588592
+RUN-008,17,bell pepper frogeye leaf spot,1.961411
+RUN-008,18,bell pepper powdery mildew,50.415508
+RUN-008,19,blueberry anthracnose,23.035099
+RUN-008,20,blueberry botrytis blight,20.547623
+RUN-008,21,blueberry mummy berry,73.710451
+RUN-008,22,blueberry rust,4.627728
+RUN-008,23,blueberry scorch,47.930167
+RUN-008,24,broccoli alternaria leaf spot,3.752452
+RUN-008,25,broccoli downy mildew,0.000000
+RUN-008,26,broccoli ring spot,0.000000
+RUN-008,27,cabbage alternaria leaf spot,7.892812
+RUN-008,28,cabbage black rot,65.090201
+RUN-008,29,cabbage downy mildew,50.524063
+RUN-008,30,carrot alternaria leaf blight,57.709739
+RUN-008,31,carrot cavity spot,19.461233
+RUN-008,32,carrot cercospora leaf blight,18.071776
+RUN-008,33,cauliflower alternaria leaf spot,0.000000
+RUN-008,34,cauliflower bacterial soft rot,36.128874
+RUN-008,35,celery anthracnose,7.437878
+RUN-008,36,celery early blight,62.911778
+RUN-008,37,cherry leaf spot,28.140184
+RUN-008,38,cherry powdery mildew,48.244656
+RUN-008,39,citrus canker,47.162748
+RUN-008,40,citrus greening disease,48.884168
+RUN-008,41,coffee berry blotch,30.746126
+RUN-008,42,coffee black rot,
+RUN-008,43,coffee brown eye spot,37.556271
+RUN-008,44,coffee leaf rust,72.720608
+RUN-008,45,corn gray leaf spot,11.433593
+RUN-008,46,corn northern leaf blight,16.908508
+RUN-008,47,corn rust,64.337353
+RUN-008,48,corn smut,77.287502
+RUN-008,49,cucumber angular leaf spot,48.878796
+RUN-008,50,cucumber bacterial wilt,40.124954
+RUN-008,51,cucumber powdery mildew,14.503598
+RUN-008,52,eggplant cercospora leaf spot,6.546742
+RUN-008,53,eggplant phomopsis fruit rot,82.480468
+RUN-008,54,eggplant phytophthora blight,72.587785
+RUN-008,55,garlic leaf blight,10.230129
+RUN-008,56,garlic rust,44.321429
+RUN-008,57,ginger leaf spot,43.685743
+RUN-008,58,ginger sheath blight,26.076482
+RUN-008,59,grape black rot,60.529432
+RUN-008,60,grape downy mildew,46.998614
+RUN-008,61,grape leaf spot,49.663850
+RUN-008,62,grapevine leafroll disease,68.800571
+RUN-008,63,lettuce downy mildew,54.596043
+RUN-008,64,lettuce mosaic virus,50.014528
+RUN-008,65,maple tar spot,25.154092
+RUN-008,66,peach anthracnose,0.000000
+RUN-008,67,peach brown rot,73.654370
+RUN-008,68,peach leaf curl,73.646482
+RUN-008,69,peach rust,0.000000
+RUN-008,70,peach scab,85.441608
+RUN-008,71,plum bacterial spot,0.000000
+RUN-008,72,plum brown rot,74.528881
+RUN-008,73,plum pocket disease,33.419349
+RUN-008,74,plum pox virus,66.564577
+RUN-008,75,plum rust,2.633897
+RUN-008,76,potato early blight,6.656784
+RUN-008,77,potato late blight,44.126981
+RUN-008,78,raspberry fire blight,64.284981
+RUN-008,79,raspberry gray mold,69.466916
+RUN-008,80,raspberry leaf spot,70.923340
+RUN-008,81,raspberry yellow rust,90.248054
+RUN-008,82,rice blast,40.758979
+RUN-008,83,rice sheath blight,18.727807
+RUN-008,84,soybean bacterial blight,43.514412
+RUN-008,85,soybean brown spot,12.278810
+RUN-008,86,soybean downy mildew,63.044217
+RUN-008,87,soybean frog eye leaf spot,65.472863
+RUN-008,88,soybean mosaic,61.216955
+RUN-008,89,soybean rust,41.616595
+RUN-008,90,squash powdery mildew,11.690182
+RUN-008,91,strawberry anthracnose,69.134287
+RUN-008,92,strawberry leaf scorch,58.609535
+RUN-008,93,tobacco blue mold,28.828998
+RUN-008,94,tobacco brown spot,38.349416
+RUN-008,95,tobacco frogeye leaf spot,1.009469
+RUN-008,96,tobacco mosaic virus,70.160595
+RUN-008,97,tomato bacterial leaf spot,15.572054
+RUN-008,98,tomato early blight,35.845669
+RUN-008,99,tomato late blight,47.137863
+RUN-008,100,tomato leaf mold,52.700719
+RUN-008,101,tomato mosaic virus,8.957808
+RUN-008,102,tomato septoria leaf spot,4.809228
+RUN-008,103,tomato yellow leaf curl virus,37.903363
+RUN-008,104,wheat bacterial leaf streak (black chaff),29.568017
+RUN-008,105,wheat head scab,53.155078
+RUN-008,106,wheat leaf rust,61.053330
+RUN-008,107,wheat loose smut,85.154028
+RUN-008,108,wheat powdery mildew,75.116994
+RUN-008,109,wheat septoria blotch,57.631602
+RUN-008,110,wheat stem rust,71.481065
+RUN-008,111,wheat stripe rust,67.528705
+RUN-008,112,zucchini bacterial wilt,17.885942
+RUN-008,113,zucchini downy mildew,16.355565
+RUN-008,114,zucchini powdery mildew,27.609385
+RUN-008,115,zucchini yellow mosaic virus,69.415344
+RUN-009,0,background,91.559555
+RUN-009,1,apple black rot,23.121743
+RUN-009,2,apple mosaic virus,75.088897
+RUN-009,3,apple rust,26.463001
+RUN-009,4,apple scab,46.217763
+RUN-009,5,banana anthracnose,54.879092
+RUN-009,6,banana black leaf streak,89.174239
+RUN-009,7,banana bunchy top,38.345158
+RUN-009,8,banana cigar end rot,71.757906
+RUN-009,9,banana cordana leaf spot,70.001307
+RUN-009,10,banana panama disease,91.710385
+RUN-009,11,basil downy mildew,40.599783
+RUN-009,12,bean halo blight,27.692629
+RUN-009,13,bean mosaic virus,1.897698
+RUN-009,14,bean rust,40.142220
+RUN-009,15,bell pepper bacterial spot,14.414834
+RUN-009,16,bell pepper blossom end rot,84.974766
+RUN-009,17,bell pepper frogeye leaf spot,0.345250
+RUN-009,18,bell pepper powdery mildew,61.556266
+RUN-009,19,blueberry anthracnose,15.666555
+RUN-009,20,blueberry botrytis blight,17.210205
+RUN-009,21,blueberry mummy berry,7.193362
+RUN-009,22,blueberry rust,26.890035
+RUN-009,23,blueberry scorch,48.275843
+RUN-009,24,broccoli alternaria leaf spot,5.182462
+RUN-009,25,broccoli downy mildew,5.447932
+RUN-009,26,broccoli ring spot,0.000000
+RUN-009,27,cabbage alternaria leaf spot,0.218290
+RUN-009,28,cabbage black rot,66.126300
+RUN-009,29,cabbage downy mildew,39.786513
+RUN-009,30,carrot alternaria leaf blight,49.301100
+RUN-009,31,carrot cavity spot,28.042464
+RUN-009,32,carrot cercospora leaf blight,16.801443
+RUN-009,33,cauliflower alternaria leaf spot,0.000000
+RUN-009,34,cauliflower bacterial soft rot,16.298102
+RUN-009,35,celery anthracnose,17.884662
+RUN-009,36,celery early blight,51.386801
+RUN-009,37,cherry leaf spot,27.974256
+RUN-009,38,cherry powdery mildew,50.142666
+RUN-009,39,citrus canker,40.215472
+RUN-009,40,citrus greening disease,31.711073
+RUN-009,41,coffee berry blotch,28.506676
+RUN-009,42,coffee black rot,
+RUN-009,43,coffee brown eye spot,53.688116
+RUN-009,44,coffee leaf rust,69.067779
+RUN-009,45,corn gray leaf spot,10.048412
+RUN-009,46,corn northern leaf blight,27.414797
+RUN-009,47,corn rust,74.812903
+RUN-009,48,corn smut,84.435991
+RUN-009,49,cucumber angular leaf spot,62.954568
+RUN-009,50,cucumber bacterial wilt,33.148839
+RUN-009,51,cucumber powdery mildew,24.703963
+RUN-009,52,eggplant cercospora leaf spot,5.905290
+RUN-009,53,eggplant phomopsis fruit rot,34.104057
+RUN-009,54,eggplant phytophthora blight,57.771848
+RUN-009,55,garlic leaf blight,14.225713
+RUN-009,56,garlic rust,38.009881
+RUN-009,57,ginger leaf spot,50.395405
+RUN-009,58,ginger sheath blight,16.756164
+RUN-009,59,grape black rot,49.581597
+RUN-009,60,grape downy mildew,61.849806
+RUN-009,61,grape leaf spot,19.361644
+RUN-009,62,grapevine leafroll disease,72.634605
+RUN-009,63,lettuce downy mildew,56.348851
+RUN-009,64,lettuce mosaic virus,0.712163
+RUN-009,65,maple tar spot,10.916009
+RUN-009,66,peach anthracnose,0.000000
+RUN-009,67,peach brown rot,86.710438
+RUN-009,68,peach leaf curl,65.139461
+RUN-009,69,peach rust,0.082059
+RUN-009,70,peach scab,72.409360
+RUN-009,71,plum bacterial spot,0.000000
+RUN-009,72,plum brown rot,74.508321
+RUN-009,73,plum pocket disease,54.398418
+RUN-009,74,plum pox virus,61.674656
+RUN-009,75,plum rust,2.265311
+RUN-009,76,potato early blight,11.370437
+RUN-009,77,potato late blight,42.242517
+RUN-009,78,raspberry fire blight,64.117952
+RUN-009,79,raspberry gray mold,71.108482
+RUN-009,80,raspberry leaf spot,40.907064
+RUN-009,81,raspberry yellow rust,78.390299
+RUN-009,82,rice blast,38.569833
+RUN-009,83,rice sheath blight,27.911523
+RUN-009,84,soybean bacterial blight,42.746735
+RUN-009,85,soybean brown spot,10.087659
+RUN-009,86,soybean downy mildew,72.369266
+RUN-009,87,soybean frog eye leaf spot,66.083183
+RUN-009,88,soybean mosaic,62.074892
+RUN-009,89,soybean rust,26.360538
+RUN-009,90,squash powdery mildew,8.219490
+RUN-009,91,strawberry anthracnose,66.436719
+RUN-009,92,strawberry leaf scorch,57.812552
+RUN-009,93,tobacco blue mold,27.229592
+RUN-009,94,tobacco brown spot,29.176618
+RUN-009,95,tobacco frogeye leaf spot,0.811822
+RUN-009,96,tobacco mosaic virus,42.277304
+RUN-009,97,tomato bacterial leaf spot,2.671469
+RUN-009,98,tomato early blight,34.862027
+RUN-009,99,tomato late blight,22.524790
+RUN-009,100,tomato leaf mold,58.611733
+RUN-009,101,tomato mosaic virus,36.512472
+RUN-009,102,tomato septoria leaf spot,15.638205
+RUN-009,103,tomato yellow leaf curl virus,36.168081
+RUN-009,104,wheat bacterial leaf streak (black chaff),29.258988
+RUN-009,105,wheat head scab,54.785111
+RUN-009,106,wheat leaf rust,58.892669
+RUN-009,107,wheat loose smut,84.785688
+RUN-009,108,wheat powdery mildew,68.928809
+RUN-009,109,wheat septoria blotch,46.656733
+RUN-009,110,wheat stem rust,72.304771
+RUN-009,111,wheat stripe rust,60.579483
+RUN-009,112,zucchini bacterial wilt,16.635317
+RUN-009,113,zucchini downy mildew,22.530858
+RUN-009,114,zucchini powdery mildew,29.744546
+RUN-009,115,zucchini yellow mosaic virus,53.348326
+RUN-010,0,background,91.421789
+RUN-010,1,apple black rot,29.457410
+RUN-010,2,apple mosaic virus,71.044159
+RUN-010,3,apple rust,53.938533
+RUN-010,4,apple scab,60.028747
+RUN-010,5,banana anthracnose,54.686314
+RUN-010,6,banana black leaf streak,76.525258
+RUN-010,7,banana bunchy top,34.252110
+RUN-010,8,banana cigar end rot,52.874814
+RUN-010,9,banana cordana leaf spot,59.633003
+RUN-010,10,banana panama disease,68.670483
+RUN-010,11,basil downy mildew,49.273985
+RUN-010,12,bean halo blight,25.161419
+RUN-010,13,bean mosaic virus,4.093501
+RUN-010,14,bean rust,34.654427
+RUN-010,15,bell pepper bacterial spot,13.422272
+RUN-010,16,bell pepper blossom end rot,81.212173
+RUN-010,17,bell pepper frogeye leaf spot,1.540039
+RUN-010,18,bell pepper powdery mildew,47.765162
+RUN-010,19,blueberry anthracnose,21.879363
+RUN-010,20,blueberry botrytis blight,12.360627
+RUN-010,21,blueberry mummy berry,5.557454
+RUN-010,22,blueberry rust,28.869394
+RUN-010,23,blueberry scorch,56.466442
+RUN-010,24,broccoli alternaria leaf spot,5.962180
+RUN-010,25,broccoli downy mildew,0.095960
+RUN-010,26,broccoli ring spot,0.000000
+RUN-010,27,cabbage alternaria leaf spot,0.000000
+RUN-010,28,cabbage black rot,63.222750
+RUN-010,29,cabbage downy mildew,56.000402
+RUN-010,30,carrot alternaria leaf blight,58.117753
+RUN-010,31,carrot cavity spot,45.919909
+RUN-010,32,carrot cercospora leaf blight,18.513327
+RUN-010,33,cauliflower alternaria leaf spot,0.000000
+RUN-010,34,cauliflower bacterial soft rot,30.920760
+RUN-010,35,celery anthracnose,3.864485
+RUN-010,36,celery early blight,48.261846
+RUN-010,37,cherry leaf spot,25.075007
+RUN-010,38,cherry powdery mildew,50.351161
+RUN-010,39,citrus canker,46.346692
+RUN-010,40,citrus greening disease,37.058685
+RUN-010,41,coffee berry blotch,31.519501
+RUN-010,42,coffee black rot,0.000000
+RUN-010,43,coffee brown eye spot,38.910142
+RUN-010,44,coffee leaf rust,74.334344
+RUN-010,45,corn gray leaf spot,10.177171
+RUN-010,46,corn northern leaf blight,26.971990
+RUN-010,47,corn rust,55.082614
+RUN-010,48,corn smut,86.679617
+RUN-010,49,cucumber angular leaf spot,44.606295
+RUN-010,50,cucumber bacterial wilt,15.095317
+RUN-010,51,cucumber powdery mildew,13.247974
+RUN-010,52,eggplant cercospora leaf spot,4.473571
+RUN-010,53,eggplant phomopsis fruit rot,61.859465
+RUN-010,54,eggplant phytophthora blight,33.369457
+RUN-010,55,garlic leaf blight,17.245620
+RUN-010,56,garlic rust,27.906022
+RUN-010,57,ginger leaf spot,45.455075
+RUN-010,58,ginger sheath blight,25.444017
+RUN-010,59,grape black rot,39.731611
+RUN-010,60,grape downy mildew,49.173829
+RUN-010,61,grape leaf spot,44.907804
+RUN-010,62,grapevine leafroll disease,75.073078
+RUN-010,63,lettuce downy mildew,63.328427
+RUN-010,64,lettuce mosaic virus,49.178274
+RUN-010,65,maple tar spot,34.109196
+RUN-010,66,peach anthracnose,0.000000
+RUN-010,67,peach brown rot,74.522060
+RUN-010,68,peach leaf curl,71.227704
+RUN-010,69,peach rust,10.033992
+RUN-010,70,peach scab,83.873245
+RUN-010,71,plum bacterial spot,0.000000
+RUN-010,72,plum brown rot,56.436277
+RUN-010,73,plum pocket disease,40.834999
+RUN-010,74,plum pox virus,63.236897
+RUN-010,75,plum rust,2.665101
+RUN-010,76,potato early blight,16.711740
+RUN-010,77,potato late blight,53.929739
+RUN-010,78,raspberry fire blight,65.318188
+RUN-010,79,raspberry gray mold,70.699680
+RUN-010,80,raspberry leaf spot,51.809317
+RUN-010,81,raspberry yellow rust,85.798219
+RUN-010,82,rice blast,51.435402
+RUN-010,83,rice sheath blight,19.584751
+RUN-010,84,soybean bacterial blight,52.735345
+RUN-010,85,soybean brown spot,18.565304
+RUN-010,86,soybean downy mildew,67.676396
+RUN-010,87,soybean frog eye leaf spot,65.509002
+RUN-010,88,soybean mosaic,71.196443
+RUN-010,89,soybean rust,80.816002
+RUN-010,90,squash powdery mildew,21.751070
+RUN-010,91,strawberry anthracnose,68.071742
+RUN-010,92,strawberry leaf scorch,54.933730
+RUN-010,93,tobacco blue mold,8.873977
+RUN-010,94,tobacco brown spot,36.944995
+RUN-010,95,tobacco frogeye leaf spot,0.515085
+RUN-010,96,tobacco mosaic virus,33.742374
+RUN-010,97,tomato bacterial leaf spot,3.224708
+RUN-010,98,tomato early blight,36.309315
+RUN-010,99,tomato late blight,48.037339
+RUN-010,100,tomato leaf mold,55.451844
+RUN-010,101,tomato mosaic virus,25.699855
+RUN-010,102,tomato septoria leaf spot,8.935767
+RUN-010,103,tomato yellow leaf curl virus,34.040112
+RUN-010,104,wheat bacterial leaf streak (black chaff),13.281273
+RUN-010,105,wheat head scab,47.250153
+RUN-010,106,wheat leaf rust,55.594055
+RUN-010,107,wheat loose smut,85.575964
+RUN-010,108,wheat powdery mildew,69.041049
+RUN-010,109,wheat septoria blotch,57.133415
+RUN-010,110,wheat stem rust,70.925274
+RUN-010,111,wheat stripe rust,60.969872
+RUN-010,112,zucchini bacterial wilt,10.997576
+RUN-010,113,zucchini downy mildew,20.617456
+RUN-010,114,zucchini powdery mildew,29.435879
+RUN-010,115,zucchini yellow mosaic virus,41.096267
+RUN-011,0,background,87.787803
+RUN-011,1,apple black rot,21.615461
+RUN-011,2,apple mosaic virus,54.355194
+RUN-011,3,apple rust,50.498611
+RUN-011,4,apple scab,44.755481
+RUN-011,5,banana anthracnose,51.179911
+RUN-011,6,banana black leaf streak,84.607004
+RUN-011,7,banana bunchy top,39.167941
+RUN-011,8,banana cigar end rot,34.291039
+RUN-011,9,banana cordana leaf spot,86.421779
+RUN-011,10,banana panama disease,86.886706
+RUN-011,11,basil downy mildew,46.738879
+RUN-011,12,bean halo blight,28.273126
+RUN-011,13,bean mosaic virus,5.657079
+RUN-011,14,bean rust,45.417176
+RUN-011,15,bell pepper bacterial spot,1.115882
+RUN-011,16,bell pepper blossom end rot,71.120975
+RUN-011,17,bell pepper frogeye leaf spot,0.000000
+RUN-011,18,bell pepper powdery mildew,51.173513
+RUN-011,19,blueberry anthracnose,11.870200
+RUN-011,20,blueberry botrytis blight,8.709058
+RUN-011,21,blueberry mummy berry,1.970034
+RUN-011,22,blueberry rust,1.223443
+RUN-011,23,blueberry scorch,49.786809
+RUN-011,24,broccoli alternaria leaf spot,18.752303
+RUN-011,25,broccoli downy mildew,0.407793
+RUN-011,26,broccoli ring spot,0.000000
+RUN-011,27,cabbage alternaria leaf spot,7.563847
+RUN-011,28,cabbage black rot,45.415773
+RUN-011,29,cabbage downy mildew,27.979137
+RUN-011,30,carrot alternaria leaf blight,43.661059
+RUN-011,31,carrot cavity spot,12.385395
+RUN-011,32,carrot cercospora leaf blight,12.708192
+RUN-011,33,cauliflower alternaria leaf spot,0.000000
+RUN-011,34,cauliflower bacterial soft rot,13.669518
+RUN-011,35,celery anthracnose,0.000000
+RUN-011,36,celery early blight,29.839128
+RUN-011,37,cherry leaf spot,21.611234
+RUN-011,38,cherry powdery mildew,30.335955
+RUN-011,39,citrus canker,52.842139
+RUN-011,40,citrus greening disease,23.265595
+RUN-011,41,coffee berry blotch,17.262516
+RUN-011,42,coffee black rot,
+RUN-011,43,coffee brown eye spot,0.000000
+RUN-011,44,coffee leaf rust,71.280433
+RUN-011,45,corn gray leaf spot,23.521913
+RUN-011,46,corn northern leaf blight,49.055256
+RUN-011,47,corn rust,58.555872
+RUN-011,48,corn smut,71.922601
+RUN-011,49,cucumber angular leaf spot,55.538629
+RUN-011,50,cucumber bacterial wilt,11.281267
+RUN-011,51,cucumber powdery mildew,12.064718
+RUN-011,52,eggplant cercospora leaf spot,9.198385
+RUN-011,53,eggplant phomopsis fruit rot,50.920084
+RUN-011,54,eggplant phytophthora blight,52.082335
+RUN-011,55,garlic leaf blight,9.232391
+RUN-011,56,garlic rust,27.407304
+RUN-011,57,ginger leaf spot,0.127283
+RUN-011,58,ginger sheath blight,0.000000
+RUN-011,59,grape black rot,33.439302
+RUN-011,60,grape downy mildew,53.151098
+RUN-011,61,grape leaf spot,22.466993
+RUN-011,62,grapevine leafroll disease,68.295896
+RUN-011,63,lettuce downy mildew,33.432033
+RUN-011,64,lettuce mosaic virus,0.000000
+RUN-011,65,maple tar spot,29.454849
+RUN-011,66,peach anthracnose,0.000000
+RUN-011,67,peach brown rot,67.060408
+RUN-011,68,peach leaf curl,53.086292
+RUN-011,69,peach rust,0.179907
+RUN-011,70,peach scab,61.245113
+RUN-011,71,plum bacterial spot,0.000000
+RUN-011,72,plum brown rot,68.718650
+RUN-011,73,plum pocket disease,11.777383
+RUN-011,74,plum pox virus,39.366983
+RUN-011,75,plum rust,2.281465
+RUN-011,76,potato early blight,7.056558
+RUN-011,77,potato late blight,58.054814
+RUN-011,78,raspberry fire blight,34.421718
+RUN-011,79,raspberry gray mold,63.432895
+RUN-011,80,raspberry leaf spot,0.000000
+RUN-011,81,raspberry yellow rust,83.679984
+RUN-011,82,rice blast,38.379564
+RUN-011,83,rice sheath blight,35.661931
+RUN-011,84,soybean bacterial blight,31.803765
+RUN-011,85,soybean brown spot,17.076331
+RUN-011,86,soybean downy mildew,50.215648
+RUN-011,87,soybean frog eye leaf spot,64.995483
+RUN-011,88,soybean mosaic,41.808742
+RUN-011,89,soybean rust,20.676994
+RUN-011,90,squash powdery mildew,22.536438
+RUN-011,91,strawberry anthracnose,54.786496
+RUN-011,92,strawberry leaf scorch,38.495018
+RUN-011,93,tobacco blue mold,4.738221
+RUN-011,94,tobacco brown spot,31.794977
+RUN-011,95,tobacco frogeye leaf spot,0.000000
+RUN-011,96,tobacco mosaic virus,24.204029
+RUN-011,97,tomato bacterial leaf spot,5.178564
+RUN-011,98,tomato early blight,28.222763
+RUN-011,99,tomato late blight,33.917672
+RUN-011,100,tomato leaf mold,52.308486
+RUN-011,101,tomato mosaic virus,0.286205
+RUN-011,102,tomato septoria leaf spot,13.587625
+RUN-011,103,tomato yellow leaf curl virus,33.380188
+RUN-011,104,wheat bacterial leaf streak (black chaff),5.863343
+RUN-011,105,wheat head scab,40.889999
+RUN-011,106,wheat leaf rust,46.628586
+RUN-011,107,wheat loose smut,53.305876
+RUN-011,108,wheat powdery mildew,56.718096
+RUN-011,109,wheat septoria blotch,18.460221
+RUN-011,110,wheat stem rust,62.460986
+RUN-011,111,wheat stripe rust,68.020319
+RUN-011,112,zucchini bacterial wilt,8.621457
+RUN-011,113,zucchini downy mildew,5.832479
+RUN-011,114,zucchini powdery mildew,26.758160
+RUN-011,115,zucchini yellow mosaic virus,43.290631
+RUN-012,0,background,87.941050
+RUN-012,1,apple black rot,10.982968
+RUN-012,2,apple mosaic virus,55.528262
+RUN-012,3,apple rust,59.419852
+RUN-012,4,apple scab,24.480564
+RUN-012,5,banana anthracnose,42.255875
+RUN-012,6,banana black leaf streak,76.790073
+RUN-012,7,banana bunchy top,26.397274
+RUN-012,8,banana cigar end rot,13.910398
+RUN-012,9,banana cordana leaf spot,60.271443
+RUN-012,10,banana panama disease,83.192249
+RUN-012,11,basil downy mildew,30.251947
+RUN-012,12,bean halo blight,18.313810
+RUN-012,13,bean mosaic virus,8.724572
+RUN-012,14,bean rust,36.924192
+RUN-012,15,bell pepper bacterial spot,1.074918
+RUN-012,16,bell pepper blossom end rot,60.833572
+RUN-012,17,bell pepper frogeye leaf spot,0.000000
+RUN-012,18,bell pepper powdery mildew,56.812567
+RUN-012,19,blueberry anthracnose,13.341255
+RUN-012,20,blueberry botrytis blight,0.000000
+RUN-012,21,blueberry mummy berry,0.045215
+RUN-012,22,blueberry rust,25.667371
+RUN-012,23,blueberry scorch,35.851929
+RUN-012,24,broccoli alternaria leaf spot,10.607335
+RUN-012,25,broccoli downy mildew,11.054177
+RUN-012,26,broccoli ring spot,0.000000
+RUN-012,27,cabbage alternaria leaf spot,8.037358
+RUN-012,28,cabbage black rot,58.889432
+RUN-012,29,cabbage downy mildew,21.841482
+RUN-012,30,carrot alternaria leaf blight,36.809286
+RUN-012,31,carrot cavity spot,14.578872
+RUN-012,32,carrot cercospora leaf blight,23.142038
+RUN-012,33,cauliflower alternaria leaf spot,0.000000
+RUN-012,34,cauliflower bacterial soft rot,11.937879
+RUN-012,35,celery anthracnose,0.000000
+RUN-012,36,celery early blight,35.136814
+RUN-012,37,cherry leaf spot,18.407164
+RUN-012,38,cherry powdery mildew,26.302935
+RUN-012,39,citrus canker,44.793300
+RUN-012,40,citrus greening disease,23.442305
+RUN-012,41,coffee berry blotch,16.498583
+RUN-012,42,coffee black rot,
+RUN-012,43,coffee brown eye spot,0.000000
+RUN-012,44,coffee leaf rust,58.664867
+RUN-012,45,corn gray leaf spot,25.314715
+RUN-012,46,corn northern leaf blight,35.237764
+RUN-012,47,corn rust,68.027977
+RUN-012,48,corn smut,65.445361
+RUN-012,49,cucumber angular leaf spot,39.399871
+RUN-012,50,cucumber bacterial wilt,21.710572
+RUN-012,51,cucumber powdery mildew,8.888300
+RUN-012,52,eggplant cercospora leaf spot,0.064771
+RUN-012,53,eggplant phomopsis fruit rot,41.672284
+RUN-012,54,eggplant phytophthora blight,45.460137
+RUN-012,55,garlic leaf blight,24.550368
+RUN-012,56,garlic rust,32.607537
+RUN-012,57,ginger leaf spot,11.671376
+RUN-012,58,ginger sheath blight,0.000000
+RUN-012,59,grape black rot,44.600383
+RUN-012,60,grape downy mildew,46.452190
+RUN-012,61,grape leaf spot,48.949947
+RUN-012,62,grapevine leafroll disease,69.565395
+RUN-012,63,lettuce downy mildew,39.017108
+RUN-012,64,lettuce mosaic virus,0.000000
+RUN-012,65,maple tar spot,39.189318
+RUN-012,66,peach anthracnose,0.000000
+RUN-012,67,peach brown rot,71.002363
+RUN-012,68,peach leaf curl,63.774070
+RUN-012,69,peach rust,0.000000
+RUN-012,70,peach scab,62.273752
+RUN-012,71,plum bacterial spot,0.000000
+RUN-012,72,plum brown rot,59.804027
+RUN-012,73,plum pocket disease,1.783017
+RUN-012,74,plum pox virus,38.385083
+RUN-012,75,plum rust,3.159964
+RUN-012,76,potato early blight,7.954478
+RUN-012,77,potato late blight,45.826192
+RUN-012,78,raspberry fire blight,28.102846
+RUN-012,79,raspberry gray mold,46.325511
+RUN-012,80,raspberry leaf spot,14.926484
+RUN-012,81,raspberry yellow rust,72.601379
+RUN-012,82,rice blast,30.729565
+RUN-012,83,rice sheath blight,25.572254
+RUN-012,84,soybean bacterial blight,40.109986
+RUN-012,85,soybean brown spot,9.998726
+RUN-012,86,soybean downy mildew,54.210478
+RUN-012,87,soybean frog eye leaf spot,61.642849
+RUN-012,88,soybean mosaic,61.081779
+RUN-012,89,soybean rust,14.259777
+RUN-012,90,squash powdery mildew,11.025530
+RUN-012,91,strawberry anthracnose,56.945249
+RUN-012,92,strawberry leaf scorch,41.145355
+RUN-012,93,tobacco blue mold,7.808231
+RUN-012,94,tobacco brown spot,32.272459
+RUN-012,95,tobacco frogeye leaf spot,0.000000
+RUN-012,96,tobacco mosaic virus,28.814729
+RUN-012,97,tomato bacterial leaf spot,3.886073
+RUN-012,98,tomato early blight,27.254649
+RUN-012,99,tomato late blight,37.509105
+RUN-012,100,tomato leaf mold,50.697640
+RUN-012,101,tomato mosaic virus,15.703740
+RUN-012,102,tomato septoria leaf spot,11.826672
+RUN-012,103,tomato yellow leaf curl virus,33.750339
+RUN-012,104,wheat bacterial leaf streak (black chaff),6.318757
+RUN-012,105,wheat head scab,54.071178
+RUN-012,106,wheat leaf rust,32.724499
+RUN-012,107,wheat loose smut,34.210180
+RUN-012,108,wheat powdery mildew,34.712821
+RUN-012,109,wheat septoria blotch,54.586607
+RUN-012,110,wheat stem rust,70.769997
+RUN-012,111,wheat stripe rust,35.591219
+RUN-012,112,zucchini bacterial wilt,14.552691
+RUN-012,113,zucchini downy mildew,2.356911
+RUN-012,114,zucchini powdery mildew,10.187426
+RUN-012,115,zucchini yellow mosaic virus,56.700007
+RUN-013,0,background,87.545615
+RUN-013,1,apple black rot,35.642481
+RUN-013,2,apple mosaic virus,56.465056
+RUN-013,3,apple rust,66.246104
+RUN-013,4,apple scab,45.614778
+RUN-013,5,banana anthracnose,49.114090
+RUN-013,6,banana black leaf streak,68.814145
+RUN-013,7,banana bunchy top,27.290554
+RUN-013,8,banana cigar end rot,40.284727
+RUN-013,9,banana cordana leaf spot,42.847562
+RUN-013,10,banana panama disease,76.791142
+RUN-013,11,basil downy mildew,42.760742
+RUN-013,12,bean halo blight,28.331965
+RUN-013,13,bean mosaic virus,4.971226
+RUN-013,14,bean rust,53.254705
+RUN-013,15,bell pepper bacterial spot,0.270375
+RUN-013,16,bell pepper blossom end rot,69.972739
+RUN-013,17,bell pepper frogeye leaf spot,0.000000
+RUN-013,18,bell pepper powdery mildew,63.802035
+RUN-013,19,blueberry anthracnose,42.439898
+RUN-013,20,blueberry botrytis blight,0.000000
+RUN-013,21,blueberry mummy berry,1.153558
+RUN-013,22,blueberry rust,27.955741
+RUN-013,23,blueberry scorch,38.300686
+RUN-013,24,broccoli alternaria leaf spot,19.281492
+RUN-013,25,broccoli downy mildew,0.000000
+RUN-013,26,broccoli ring spot,0.000000
+RUN-013,27,cabbage alternaria leaf spot,13.635740
+RUN-013,28,cabbage black rot,54.705090
+RUN-013,29,cabbage downy mildew,31.170222
+RUN-013,30,carrot alternaria leaf blight,41.415260
+RUN-013,31,carrot cavity spot,9.813928
+RUN-013,32,carrot cercospora leaf blight,30.017970
+RUN-013,33,cauliflower alternaria leaf spot,0.000000
+RUN-013,34,cauliflower bacterial soft rot,13.103727
+RUN-013,35,celery anthracnose,0.000000
+RUN-013,36,celery early blight,32.123312
+RUN-013,37,cherry leaf spot,3.535838
+RUN-013,38,cherry powdery mildew,34.916976
+RUN-013,39,citrus canker,47.256382
+RUN-013,40,citrus greening disease,22.117758
+RUN-013,41,coffee berry blotch,16.030333
+RUN-013,42,coffee black rot,
+RUN-013,43,coffee brown eye spot,0.000000
+RUN-013,44,coffee leaf rust,57.147633
+RUN-013,45,corn gray leaf spot,11.377293
+RUN-013,46,corn northern leaf blight,18.005094
+RUN-013,47,corn rust,52.000152
+RUN-013,48,corn smut,56.544952
+RUN-013,49,cucumber angular leaf spot,40.695707
+RUN-013,50,cucumber bacterial wilt,15.052539
+RUN-013,51,cucumber powdery mildew,8.717392
+RUN-013,52,eggplant cercospora leaf spot,0.079276
+RUN-013,53,eggplant phomopsis fruit rot,15.726664
+RUN-013,54,eggplant phytophthora blight,16.443693
+RUN-013,55,garlic leaf blight,6.300150
+RUN-013,56,garlic rust,17.975608
+RUN-013,57,ginger leaf spot,13.408931
+RUN-013,58,ginger sheath blight,0.000000
+RUN-013,59,grape black rot,53.655706
+RUN-013,60,grape downy mildew,45.171788
+RUN-013,61,grape leaf spot,40.928160
+RUN-013,62,grapevine leafroll disease,68.768626
+RUN-013,63,lettuce downy mildew,39.046164
+RUN-013,64,lettuce mosaic virus,0.100740
+RUN-013,65,maple tar spot,26.216395
+RUN-013,66,peach anthracnose,0.000000
+RUN-013,67,peach brown rot,66.910694
+RUN-013,68,peach leaf curl,65.902470
+RUN-013,69,peach rust,0.000000
+RUN-013,70,peach scab,57.831366
+RUN-013,71,plum bacterial spot,0.000000
+RUN-013,72,plum brown rot,66.732279
+RUN-013,73,plum pocket disease,2.910330
+RUN-013,74,plum pox virus,36.638417
+RUN-013,75,plum rust,2.924422
+RUN-013,76,potato early blight,9.202715
+RUN-013,77,potato late blight,49.085958
+RUN-013,78,raspberry fire blight,23.386393
+RUN-013,79,raspberry gray mold,47.502247
+RUN-013,80,raspberry leaf spot,4.304010
+RUN-013,81,raspberry yellow rust,30.990645
+RUN-013,82,rice blast,28.361202
+RUN-013,83,rice sheath blight,25.587230
+RUN-013,84,soybean bacterial blight,50.261411
+RUN-013,85,soybean brown spot,20.044609
+RUN-013,86,soybean downy mildew,56.882254
+RUN-013,87,soybean frog eye leaf spot,61.813276
+RUN-013,88,soybean mosaic,54.733094
+RUN-013,89,soybean rust,39.069474
+RUN-013,90,squash powdery mildew,5.010440
+RUN-013,91,strawberry anthracnose,60.387491
+RUN-013,92,strawberry leaf scorch,56.106622
+RUN-013,93,tobacco blue mold,4.445169
+RUN-013,94,tobacco brown spot,37.701148
+RUN-013,95,tobacco frogeye leaf spot,0.000000
+RUN-013,96,tobacco mosaic virus,25.872460
+RUN-013,97,tomato bacterial leaf spot,4.981862
+RUN-013,98,tomato early blight,27.325648
+RUN-013,99,tomato late blight,37.580412
+RUN-013,100,tomato leaf mold,49.704711
+RUN-013,101,tomato mosaic virus,0.011731
+RUN-013,102,tomato septoria leaf spot,15.049544
+RUN-013,103,tomato yellow leaf curl virus,38.543388
+RUN-013,104,wheat bacterial leaf streak (black chaff),7.401699
+RUN-013,105,wheat head scab,52.840821
+RUN-013,106,wheat leaf rust,41.208045
+RUN-013,107,wheat loose smut,72.332820
+RUN-013,108,wheat powdery mildew,49.195721
+RUN-013,109,wheat septoria blotch,59.872554
+RUN-013,110,wheat stem rust,65.027194
+RUN-013,111,wheat stripe rust,61.463111
+RUN-013,112,zucchini bacterial wilt,8.083668
+RUN-013,113,zucchini downy mildew,9.365227
+RUN-013,114,zucchini powdery mildew,18.224550
+RUN-013,115,zucchini yellow mosaic virus,56.382266
+RUN-015,0,background,91.031215
+RUN-015,1,apple black rot,39.125074
+RUN-015,2,apple mosaic virus,61.920709
+RUN-015,3,apple rust,65.309433
+RUN-015,4,apple scab,31.125539
+RUN-015,5,banana anthracnose,25.113113
+RUN-015,6,banana black leaf streak,81.635730
+RUN-015,7,banana bunchy top,33.137642
+RUN-015,8,banana cigar end rot,17.978481
+RUN-015,9,banana cordana leaf spot,7.591026
+RUN-015,10,banana panama disease,56.025506
+RUN-015,11,basil downy mildew,32.346245
+RUN-015,12,bean halo blight,13.001347
+RUN-015,13,bean mosaic virus,5.534010
+RUN-015,14,bean rust,21.844485
+RUN-015,15,bell pepper bacterial spot,10.143790
+RUN-015,16,bell pepper blossom end rot,62.526429
+RUN-015,17,bell pepper frogeye leaf spot,5.272554
+RUN-015,18,bell pepper powdery mildew,58.063989
+RUN-015,19,blueberry anthracnose,43.225343
+RUN-015,20,blueberry botrytis blight,36.505400
+RUN-015,21,blueberry mummy berry,33.589857
+RUN-015,22,blueberry rust,37.523398
+RUN-015,23,blueberry scorch,44.332867
+RUN-015,24,broccoli alternaria leaf spot,4.863481
+RUN-015,25,broccoli downy mildew,6.079058
+RUN-015,26,broccoli ring spot,31.692137
+RUN-015,27,cabbage alternaria leaf spot,3.915154
+RUN-015,28,cabbage black rot,57.149712
+RUN-015,29,cabbage downy mildew,79.049930
+RUN-015,30,carrot alternaria leaf blight,40.817414
+RUN-015,31,carrot cavity spot,39.719794
+RUN-015,32,carrot cercospora leaf blight,19.944581
+RUN-015,33,cauliflower alternaria leaf spot,0.000437
+RUN-015,34,cauliflower bacterial soft rot,15.371256
+RUN-015,35,celery anthracnose,38.793161
+RUN-015,36,celery early blight,31.274656
+RUN-015,37,cherry leaf spot,19.968373
+RUN-015,38,cherry powdery mildew,17.277634
+RUN-015,39,citrus canker,60.716684
+RUN-015,40,citrus greening disease,35.770254
+RUN-015,41,coffee berry blotch,22.165506
+RUN-015,42,coffee black rot,0.000000
+RUN-015,43,coffee brown eye spot,4.561702
+RUN-015,44,coffee leaf rust,70.078340
+RUN-015,45,corn gray leaf spot,74.820334
+RUN-015,46,corn northern leaf blight,40.562489
+RUN-015,47,corn rust,51.016779
+RUN-015,48,corn smut,86.435537
+RUN-015,49,cucumber angular leaf spot,45.573928
+RUN-015,50,cucumber bacterial wilt,27.996046
+RUN-015,51,cucumber powdery mildew,25.571311
+RUN-015,52,eggplant cercospora leaf spot,9.017647
+RUN-015,53,eggplant phomopsis fruit rot,83.428527
+RUN-015,54,eggplant phytophthora blight,29.462081
+RUN-015,55,garlic leaf blight,22.492175
+RUN-015,56,garlic rust,54.613203
+RUN-015,57,ginger leaf spot,33.304094
+RUN-015,58,ginger sheath blight,5.105993
+RUN-015,59,grape black rot,68.187196
+RUN-015,60,grape downy mildew,65.050011
+RUN-015,61,grape leaf spot,9.565128
+RUN-015,62,grapevine leafroll disease,18.113112
+RUN-015,63,lettuce downy mildew,83.563470
+RUN-015,64,lettuce mosaic virus,2.489790
+RUN-015,65,maple tar spot,63.586792
+RUN-015,66,peach anthracnose,64.357684
+RUN-015,67,peach brown rot,64.821452
+RUN-015,68,peach leaf curl,65.822171
+RUN-015,69,peach rust,0.000000
+RUN-015,70,peach scab,58.119224
+RUN-015,71,plum bacterial spot,0.000000
+RUN-015,72,plum brown rot,25.952489
+RUN-015,73,plum pocket disease,22.067663
+RUN-015,74,plum pox virus,7.310207
+RUN-015,75,plum rust,35.218085
+RUN-015,76,potato early blight,22.308529
+RUN-015,77,potato late blight,47.727698
+RUN-015,78,raspberry fire blight,10.895107
+RUN-015,79,raspberry gray mold,25.235693
+RUN-015,80,raspberry leaf spot,44.272385
+RUN-015,81,raspberry yellow rust,85.514099
+RUN-015,82,rice blast,39.889172
+RUN-015,83,rice sheath blight,22.674610
+RUN-015,84,soybean bacterial blight,20.916510
+RUN-015,85,soybean brown spot,47.070770
+RUN-015,86,soybean downy mildew,55.818592
+RUN-015,87,soybean frog eye leaf spot,68.815149
+RUN-015,88,soybean mosaic,22.742163
+RUN-015,89,soybean rust,61.982970
+RUN-015,90,squash powdery mildew,49.169370
+RUN-015,91,strawberry anthracnose,61.885082
+RUN-015,92,strawberry leaf scorch,43.040809
+RUN-015,93,tobacco blue mold,30.312000
+RUN-015,94,tobacco brown spot,11.968730
+RUN-015,95,tobacco frogeye leaf spot,10.592772
+RUN-015,96,tobacco mosaic virus,67.659860
+RUN-015,97,tomato bacterial leaf spot,2.965260
+RUN-015,98,tomato early blight,29.113541
+RUN-015,99,tomato late blight,45.645473
+RUN-015,100,tomato leaf mold,32.978121
+RUN-015,101,tomato mosaic virus,35.598709
+RUN-015,102,tomato septoria leaf spot,6.347233
+RUN-015,103,tomato yellow leaf curl virus,44.592118
+RUN-015,104,wheat bacterial leaf streak (black chaff),28.641249
+RUN-015,105,wheat head scab,53.215589
+RUN-015,106,wheat leaf rust,49.823566
+RUN-015,107,wheat loose smut,69.068078
+RUN-015,108,wheat powdery mildew,64.538157
+RUN-015,109,wheat septoria blotch,36.853422
+RUN-015,110,wheat stem rust,49.470632
+RUN-015,111,wheat stripe rust,61.992079
+RUN-015,112,zucchini bacterial wilt,21.004702
+RUN-015,113,zucchini downy mildew,47.409478
+RUN-015,114,zucchini powdery mildew,25.045745
+RUN-015,115,zucchini yellow mosaic virus,15.285435
+RUN-016,0,background,86.726078
+RUN-016,1,apple black rot,18.782188
+RUN-016,2,apple mosaic virus,46.991992
+RUN-016,3,apple rust,50.892165
+RUN-016,4,apple scab,18.359313
+RUN-016,5,banana anthracnose,8.651369
+RUN-016,6,banana black leaf streak,72.735697
+RUN-016,7,banana bunchy top,18.370624
+RUN-016,8,banana cigar end rot,17.447028
+RUN-016,9,banana cordana leaf spot,4.229223
+RUN-016,10,banana panama disease,27.771049
+RUN-016,11,basil downy mildew,24.212965
+RUN-016,12,bean halo blight,16.986636
+RUN-016,13,bean mosaic virus,0.005081
+RUN-016,14,bean rust,15.365985
+RUN-016,15,bell pepper bacterial spot,29.731447
+RUN-016,16,bell pepper blossom end rot,28.522338
+RUN-016,17,bell pepper frogeye leaf spot,0.000000
+RUN-016,18,bell pepper powdery mildew,47.612015
+RUN-016,19,blueberry anthracnose,34.606766
+RUN-016,20,blueberry botrytis blight,29.502409
+RUN-016,21,blueberry mummy berry,37.290682
+RUN-016,22,blueberry rust,10.326096
+RUN-016,23,blueberry scorch,12.837629
+RUN-016,24,broccoli alternaria leaf spot,2.832267
+RUN-016,25,broccoli downy mildew,1.338413
+RUN-016,26,broccoli ring spot,0.000000
+RUN-016,27,cabbage alternaria leaf spot,6.262257
+RUN-016,28,cabbage black rot,54.952162
+RUN-016,29,cabbage downy mildew,10.898709
+RUN-016,30,carrot alternaria leaf blight,14.277306
+RUN-016,31,carrot cavity spot,25.525099
+RUN-016,32,carrot cercospora leaf blight,0.573477
+RUN-016,33,cauliflower alternaria leaf spot,15.866392
+RUN-016,34,cauliflower bacterial soft rot,9.048908
+RUN-016,35,celery anthracnose,0.000000
+RUN-016,36,celery early blight,29.595577
+RUN-016,37,cherry leaf spot,9.250064
+RUN-016,38,cherry powdery mildew,17.001026
+RUN-016,39,citrus canker,41.335009
+RUN-016,40,citrus greening disease,25.644950
+RUN-016,41,coffee berry blotch,7.146131
+RUN-016,42,coffee black rot,0.000000
+RUN-016,43,coffee brown eye spot,0.000000
+RUN-016,44,coffee leaf rust,60.858371
+RUN-016,45,corn gray leaf spot,56.971329
+RUN-016,46,corn northern leaf blight,37.915347
+RUN-016,47,corn rust,55.178946
+RUN-016,48,corn smut,48.291041
+RUN-016,49,cucumber angular leaf spot,33.947955
+RUN-016,50,cucumber bacterial wilt,20.197625
+RUN-016,51,cucumber powdery mildew,37.183609
+RUN-016,52,eggplant cercospora leaf spot,0.093460
+RUN-016,53,eggplant phomopsis fruit rot,74.029032
+RUN-016,54,eggplant phytophthora blight,21.374122
+RUN-016,55,garlic leaf blight,23.847398
+RUN-016,56,garlic rust,33.249358
+RUN-016,57,ginger leaf spot,17.205468
+RUN-016,58,ginger sheath blight,3.915552
+RUN-016,59,grape black rot,48.983036
+RUN-016,60,grape downy mildew,54.000361
+RUN-016,61,grape leaf spot,20.504260
+RUN-016,62,grapevine leafroll disease,6.708926
+RUN-016,63,lettuce downy mildew,66.004673
+RUN-016,64,lettuce mosaic virus,0.000000
+RUN-016,65,maple tar spot,49.191066
+RUN-016,66,peach anthracnose,63.656676
+RUN-016,67,peach brown rot,54.978358
+RUN-016,68,peach leaf curl,41.808691
+RUN-016,69,peach rust,0.000000
+RUN-016,70,peach scab,38.310234
+RUN-016,71,plum bacterial spot,0.000000
+RUN-016,72,plum brown rot,17.959196
+RUN-016,73,plum pocket disease,1.565515
+RUN-016,74,plum pox virus,0.000000
+RUN-016,75,plum rust,10.401646
+RUN-016,76,potato early blight,6.060243
+RUN-016,77,potato late blight,34.352404
+RUN-016,78,raspberry fire blight,13.474268
+RUN-016,79,raspberry gray mold,30.590267
+RUN-016,80,raspberry leaf spot,63.095185
+RUN-016,81,raspberry yellow rust,62.256049
+RUN-016,82,rice blast,29.158582
+RUN-016,83,rice sheath blight,22.046546
+RUN-016,84,soybean bacterial blight,17.883776
+RUN-016,85,soybean brown spot,73.805647
+RUN-016,86,soybean downy mildew,21.051902
+RUN-016,87,soybean frog eye leaf spot,67.922014
+RUN-016,88,soybean mosaic,11.392202
+RUN-016,89,soybean rust,30.058943
+RUN-016,90,squash powdery mildew,41.424346
+RUN-016,91,strawberry anthracnose,46.441548
+RUN-016,92,strawberry leaf scorch,41.483857
+RUN-016,93,tobacco blue mold,49.659690
+RUN-016,94,tobacco brown spot,5.601634
+RUN-016,95,tobacco frogeye leaf spot,0.000000
+RUN-016,96,tobacco mosaic virus,23.216394
+RUN-016,97,tomato bacterial leaf spot,5.930122
+RUN-016,98,tomato early blight,20.028918
+RUN-016,99,tomato late blight,29.664066
+RUN-016,100,tomato leaf mold,41.986032
+RUN-016,101,tomato mosaic virus,3.359705
+RUN-016,102,tomato septoria leaf spot,22.408199
+RUN-016,103,tomato yellow leaf curl virus,31.532690
+RUN-016,104,wheat bacterial leaf streak (black chaff),3.609492
+RUN-016,105,wheat head scab,17.016107
+RUN-016,106,wheat leaf rust,68.436846
+RUN-016,107,wheat loose smut,38.745477
+RUN-016,108,wheat powdery mildew,37.928810
+RUN-016,109,wheat septoria blotch,37.312460
+RUN-016,110,wheat stem rust,36.781406
+RUN-016,111,wheat stripe rust,63.117717
+RUN-016,112,zucchini bacterial wilt,17.071089
+RUN-016,113,zucchini downy mildew,10.574993
+RUN-016,114,zucchini powdery mildew,5.557499
+RUN-016,115,zucchini yellow mosaic virus,41.817060

@@ -1,0 +1,10 @@
+{
+  "driver": "scripts/frozen_drivers/run_secondary_metrics.py",
+  "driver_sha256": "e3f1f9b9c3070fac6d347879c92b2c0a50b353ef20f68bfe3b147b9537f475ea",
+  "replicates": 10000,
+  "runs": "RUN-002..RUN-013 fixed-cohort evidence NPZs (raw/RUN-0xx__*.npz)",
+  "seed": 20260917,
+  "strata": "raw/STAGE2__strata.json",
+  "strata_builder": "scripts/frozen_drivers/build_strata_CD-001.py",
+  "strata_builder_frozen_sha256": "2b1e27549d8bc7196461aa1d40fb160da45862c4daa7896a4d73ada85c421874"
+}

@@ -1,0 +1,34 @@
+{
+  "compute_profile_id": "CP-02",
+  "kind": "forest",
+  "rows": [
+    {
+      "hi": 0.5188139235404108,
+      "label": "DeepLabV3+-R101",
+      "lo": 0.47376418652558494,
+      "point": 0.48814482020640426
+    },
+    {
+      "hi": 0.46589663721427943,
+      "label": "SegNeXt-MSCAN-L",
+      "lo": 0.423746218120964,
+      "point": 0.43735309301775604
+    }
+  ],
+  "run_class": "evidence",
+  "source_run_ids": [
+    "RUN-002",
+    "RUN-003",
+    "RUN-004",
+    "RUN-011"
+  ],
+  "stem": "F04_H3_background_inflation",
+  "title": "Background inclusion in the released 116-label metric (DEFAULT arm)",
+  "vlines": [
+    {
+      "label": "no inflation",
+      "x": 0
+    }
+  ],
+  "xlabel": "mIoU_116 - mIoU_disease (points), 95% paired-bootstrap CI"
+}

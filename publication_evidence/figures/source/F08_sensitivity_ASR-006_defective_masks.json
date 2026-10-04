@@ -1,0 +1,54 @@
+{
+  "bars": [
+    {
+      "hi": 33.664289262932996,
+      "label": "DeepLabV3+-R101\nprimary: exclude 12",
+      "lo": 28.995516229018214,
+      "point": 31.65114902818129
+    },
+    {
+      "hi": 33.543531795123485,
+      "label": "DeepLabV3+-R101\nA: retain released",
+      "lo": 28.964510965083424,
+      "point": 31.62609955542235
+    },
+    {
+      "hi": 33.5638834303208,
+      "label": "DeepLabV3+-R101\nB: relabel (metadata)",
+      "lo": 28.973563622736748,
+      "point": 31.603353930452982
+    },
+    {
+      "hi": 43.26707454023414,
+      "label": "SegNeXt-MSCAN-L\nprimary: exclude 12",
+      "lo": 38.03934850460367,
+      "point": 40.93205772315705
+    },
+    {
+      "hi": 43.28194570206491,
+      "label": "SegNeXt-MSCAN-L\nA: retain released",
+      "lo": 38.04647377562693,
+      "point": 41.03032461751429
+    },
+    {
+      "hi": 43.26676071921532,
+      "label": "SegNeXt-MSCAN-L\nB: relabel (metadata)",
+      "lo": 38.04629822985831,
+      "point": 40.994795742858244
+    }
+  ],
+  "compute_profile_id": "CP-02",
+  "kind": "cibar",
+  "run_class": "sensitivity",
+  "source_run_ids": [
+    "RUN-002",
+    "RUN-011",
+    "RUN-017",
+    "RUN-018",
+    "RUN-019",
+    "RUN-020"
+  ],
+  "stem": "F08_sensitivity_ASR-006_defective_masks",
+  "title": "Sensitivity to the defective-mask policy (ASR-006; not claim-supporting)",
+  "ylabel": "Disease-only mIoU (points), 95% bootstrap CI"
+}

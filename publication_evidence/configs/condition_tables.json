@@ -1,0 +1,5 @@
+{
+  "expected_runs": 12,
+  "out_dir": "tables",
+  "stats_dir": "statistics"
+}

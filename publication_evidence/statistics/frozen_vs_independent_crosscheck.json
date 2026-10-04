@@ -1,0 +1,210 @@
+{
+  "cohort_file_matches_npz_keys": true,
+  "frozen_kwargs_used": {
+    "h2": {
+      "n_replicates": 10000,
+      "seed": 20260917
+    },
+    "h3": {
+      "n_replicates": 10000,
+      "seed": 20260917
+    }
+  },
+  "items": [
+    {
+      "ci_ok": true,
+      "frozen": {
+        "ci_hi": 0.03070136683240826,
+        "ci_lo": -0.0018853143377750904,
+        "excludes_zero": false,
+        "point": 0.018065622137212134
+      },
+      "gate_ok": true,
+      "independent": {
+        "ci_hi": 0.03070136683240826,
+        "ci_lo": -0.0018853143377750917,
+        "excludes_zero": false,
+        "p": 0.0795920407959204,
+        "point": 0.01806562213721215
+      },
+      "name": "H2/SegNeXt-MSCAN-L/delta_leak",
+      "p_frozen": 0.0795920407959204,
+      "p_independent": 0.0795920407959204,
+      "p_ok": true,
+      "point_ok": true
+    },
+    {
+      "ci_ok": true,
+      "frozen": {
+        "ci_hi": 0.024669211015694734,
+        "ci_lo": -0.004309336956489313,
+        "excludes_zero": false,
+        "point": 0.011444455908561024
+      },
+      "gate_ok": true,
+      "independent": {
+        "ci_hi": 0.02466921101569475,
+        "ci_lo": -0.0043093369564892944,
+        "excludes_zero": false,
+        "p": 0.16518348165183483,
+        "point": 0.01144445590856106
+      },
+      "name": "H2/SegNeXt-MSCAN-L/delta_attr",
+      "p_frozen": 0.16518348165183483,
+      "p_independent": 0.16518348165183483,
+      "p_ok": true,
+      "point_ok": true
+    },
+    {
+      "ci_ok": true,
+      "frozen": {
+        "ci_hi": 0.016748628564920775,
+        "ci_lo": -0.008684571901888516,
+        "excludes_zero": false,
+        "point": 0.00662116622865111
+      },
+      "gate_ok": true,
+      "independent": {
+        "ci_hi": 0.016748628564920775,
+        "ci_lo": -0.008684571901888587,
+        "excludes_zero": false,
+        "p": 0.49535046495350465,
+        "point": 0.0066211662286510915
+      },
+      "name": "H2/SegNeXt-MSCAN-L/delta_size",
+      "p_frozen": 0.49535046495350465,
+      "p_independent": 0.49535046495350465,
+      "p_ok": true,
+      "point_ok": true
+    },
+    {
+      "ci_ok": true,
+      "frozen": {
+        "ci_hi": 0.02845675036115618,
+        "ci_lo": -0.004374609245493677,
+        "excludes_zero": false,
+        "point": 0.01405656451981302
+      },
+      "gate_ok": true,
+      "independent": {
+        "ci_hi": 0.02845675036115613,
+        "ci_lo": -0.004374609245493732,
+        "excludes_zero": false,
+        "p": 0.14678532146785322,
+        "point": 0.014056564519812964
+      },
+      "name": "H2/DeepLabV3+-R101/delta_leak",
+      "p_frozen": 0.14678532146785322,
+      "p_independent": 0.14678532146785322,
+      "p_ok": true,
+      "point_ok": true
+    },
+    {
+      "ci_ok": true,
+      "frozen": {
+        "ci_hi": 0.025963870052489,
+        "ci_lo": -0.010223009931109637,
+        "excludes_zero": false,
+        "point": 0.006317337090109509
+      },
+      "gate_ok": true,
+      "independent": {
+        "ci_hi": 0.025963870052489107,
+        "ci_lo": -0.010223009931109691,
+        "excludes_zero": false,
+        "p": 0.40775922407759224,
+        "point": 0.006317337090109509
+      },
+      "name": "H2/DeepLabV3+-R101/delta_attr",
+      "p_frozen": 0.40775922407759224,
+      "p_independent": 0.40775922407759224,
+      "p_ok": true,
+      "point_ok": true
+    },
+    {
+      "ci_ok": true,
+      "frozen": {
+        "ci_hi": 0.02287984747962762,
+        "ci_lo": -0.01463340960744693,
+        "excludes_zero": false,
+        "point": 0.00773922742970351
+      },
+      "gate_ok": true,
+      "independent": {
+        "ci_hi": 0.02287984747962762,
+        "ci_lo": -0.014633409607446713,
+        "excludes_zero": false,
+        "p": 0.636936306369363,
+        "point": 0.007739227429703455
+      },
+      "name": "H2/DeepLabV3+-R101/delta_size",
+      "p_frozen": 0.636936306369363,
+      "p_independent": 0.636936306369363,
+      "p_ok": true,
+      "point_ok": true
+    },
+    {
+      "ci_ok": true,
+      "frozen": {
+        "ci_hi": 0.0046589663721427945,
+        "ci_lo": 0.00423746218120964,
+        "excludes_zero": true,
+        "point": 0.0043735309301775604
+      },
+      "gate_ok": true,
+      "independent": {
+        "ci_hi": 0.004658966372142794,
+        "ci_lo": 0.0042374621812096966,
+        "excludes_zero": true,
+        "p": 0.00019998000199980003,
+        "point": 0.004373530930177523
+      },
+      "name": "H3/SegNeXt-MSCAN-L/delta_bg",
+      "p_frozen": 0.00019998000199980003,
+      "p_independent": 0.00019998000199980003,
+      "p_ok": true,
+      "point_ok": true
+    },
+    {
+      "ci_ok": true,
+      "frozen": {
+        "ci_hi": 0.005188139235404107,
+        "ci_lo": 0.0047376418652558495,
+        "excludes_zero": true,
+        "point": 0.004881448202064043
+      },
+      "gate_ok": true,
+      "independent": {
+        "ci_hi": 0.005188139235404053,
+        "ci_lo": 0.004737641865255794,
+        "excludes_zero": true,
+        "p": 0.00019998000199980003,
+        "point": 0.004881448202064043
+      },
+      "name": "H3/DeepLabV3+-R101/delta_bg",
+      "p_frozen": 0.00019998000199980003,
+      "p_independent": 0.00019998000199980003,
+      "p_ok": true,
+      "point_ok": true
+    }
+  ],
+  "metric_xval_max_abs_dev": 2.220446049250313e-16,
+  "pairing_integrity": {
+    "RUN-002": true,
+    "RUN-003": true,
+    "RUN-004": true,
+    "RUN-005": true,
+    "RUN-006": true,
+    "RUN-007": true,
+    "RUN-008": true,
+    "RUN-009": true,
+    "RUN-010": true,
+    "RUN-011": true,
+    "RUN-012": true,
+    "RUN-013": true
+  },
+  "tolerances": {
+    "ci": 0.003,
+    "point": 1e-09
+  }
+}
