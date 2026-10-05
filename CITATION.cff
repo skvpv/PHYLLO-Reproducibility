@@ -7,8 +7,12 @@ date-released: 2026-10-04
 authors:
   - family-names: "Sivakumar"
     given-names: "V."
-repository-code: "https://github.com/mitsv/PHYLLO-Reproducibility"
-license: MIT
+repository-code: "https://github.com/skvpv/PHYLLO-Reproducibility"
+# Component-specific licences; see LICENSE_SCOPE.md. These are not a choice
+# of alternative licences for every file.
+license:
+  - MIT
+  - CC-BY-NC-4.0
 keywords:
   - plant disease segmentation
   - dataset integrity

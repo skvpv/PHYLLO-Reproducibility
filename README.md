@@ -33,7 +33,7 @@ verify_repository.sh      Validates syntax, JSON files, expected outputs, and ch
 
 The experiments use PlantSeg v7, available from [Zenodo](https://doi.org/10.5281/zenodo.17719108). The dataset is not redistributed in this repository. Users must obtain it from the official source and comply with its licence and terms.
 
-The fixed split lists and derived evidence in this repository are provided for academic, non-commercial reproducibility under the conditions described in `LICENSE-DATA`.
+The fixed split lists and derived evidence in this repository are provided under CC BY-NC 4.0, as described in `LICENSE-DATA`. See `LICENSE_SCOPE.md` for the distinction between original software, derived records and third-party materials.
 
 ## Environment
 
@@ -92,7 +92,10 @@ Full retraining requires the separately downloaded PlantSeg dataset, compatible 
 ## Licensing
 
 - Original source code: MIT License (`LICENSE-CODE`).
-- PlantSeg-derived splits, embeddings, raw evidence, statistics, tables, and figures: CC BY-NC 4.0 conditions (`LICENSE-DATA`).
+- PlantSeg-derived splits, embeddings, raw evidence, statistics, tables, and figures: CC BY-NC 4.0 (`LICENSE-DATA`).
+- File-category scope and third-party exclusions: [`LICENSE_SCOPE.md`](LICENSE_SCOPE.md).
+
+The current derived-record release is not licensed under CC BY 4.0. The MIT software licence does not extend to these data. Original PlantSeg materials retain their applicable source and image-level terms; PHYLLO does not grant additional rights to them.
 
 ## Citation
 

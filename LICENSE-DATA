@@ -12,3 +12,8 @@ The original PlantSeg images and masks are not redistributed here. Users must
 obtain them from the official source and comply with the source record's terms.
 This notice does not replace or weaken any rights or restrictions attached to
 the original dataset.
+
+Scope: see LICENSE_SCOPE.md for repository paths and third-party exclusions.
+The MIT licence in LICENSE-CODE applies to original software, not these data.
+This notice retains the existing CC BY-NC 4.0 terms; it does not offer the
+PlantSeg-derived records under CC BY 4.0 or change source image-level terms.
