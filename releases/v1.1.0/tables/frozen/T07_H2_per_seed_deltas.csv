@@ -1,0 +1,5 @@
+baseline,seed,delta_leak_pts,delta_size_pts,delta_attr_pts
+DeepLabV3+-R101,0,1.405656,0.773923,0.631734
+SegNeXt-MSCAN-L,0,0.745365,-0.968614,1.713979
+SegNeXt-MSCAN-L,1,1.708928,0.552622,1.156306
+SegNeXt-MSCAN-L,2,2.965393,2.402341,0.563052

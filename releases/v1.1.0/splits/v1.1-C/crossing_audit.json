@@ -1,0 +1,23 @@
+{
+ "verdict": "CONVERGED",
+ "build_status": "BUILT",
+ "build_version": "corrected partition v1.1-C \u2014 PROVISIONAL (candidate containment, CR-PHYLLO-R3-01)",
+ "build_manifest_sha256": "65535993c06913d2e360f29fc65f21af315bf92ada9696b7066ec5a6409d0b01",
+ "soft_edges_frozen": 1480,
+ "soft_edges_crossing_v11": 0,
+ "by_status": {},
+ "by_pattern": {},
+ "next_review_batch": 0,
+ "conflicts": 0,
+ "hard_edges_crossing": 0,
+ "grouping_edges_crossing": 0,
+ "round3": {
+  "scored_dir": null
+ },
+ "repo_input_sha256": {
+  "publication_evidence/raw/RUN-001__edges.json": "d4371cb36b8b928da55c25e12a318df8a0e4c7bb8cc08c1a70ed6cbb3e0dc668",
+  "publication_evidence/raw/RUN-001__manual_audit_KEY.json": "3fa800a09dc39295330d8aea820e3a7b61214ed4f83014f627faf2a7827bc798",
+  "publication_evidence/raw/RUN-001__manual_audit_reviewer_combined.json": "5ab4fac8fd2c5bcb649ff77dea0f546c49d667454fc58f8ef833acd91b695030"
+ },
+ "note": "round-1 labels are binary (duplicate/non-duplicate), not C1-C5"
+}

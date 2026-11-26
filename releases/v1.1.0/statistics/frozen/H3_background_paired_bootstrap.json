@@ -1,0 +1,107 @@
+{
+  "B": 10000,
+  "baseline_supported": {
+    "DeepLabV3+-R101": true,
+    "SegNeXt-MSCAN-L": true
+  },
+  "holm_frozen": {
+    "DeepLabV3+-R101": {
+      "reject": true
+    },
+    "SegNeXt-MSCAN-L": {
+      "reject": true
+    }
+  },
+  "holm_independent": {
+    "DeepLabV3+-R101": {
+      "p": 0.00019998000199980003,
+      "p_holm": 0.00039996000399960006,
+      "reject": true
+    },
+    "SegNeXt-MSCAN-L": {
+      "p": 0.00019998000199980003,
+      "p_holm": 0.00039996000399960006,
+      "reject": true
+    }
+  },
+  "hypothesis": "H3",
+  "per_baseline": {
+    "DeepLabV3+-R101": {
+      "authoritative": {
+        "ci_hi": 0.005188139235404107,
+        "ci_lo": 0.0047376418652558495,
+        "excludes_zero": true,
+        "p": 0.00019998000199980003,
+        "p_source": "frozen:result.p",
+        "point": 0.004881448202064043
+      },
+      "frozen": {
+        "ci_hi": 0.005188139235404107,
+        "ci_lo": 0.0047376418652558495,
+        "excludes_zero": true,
+        "p": 0.00019998000199980003,
+        "p_source": "frozen:result.p",
+        "point": 0.004881448202064043
+      },
+      "gate": true,
+      "independent": {
+        "ci_hi": 0.005188139235404053,
+        "ci_lo": 0.004737641865255794,
+        "excludes_zero": true,
+        "p": 0.00019998000199980003,
+        "point": 0.004881448202064043
+      },
+      "secondary": {
+        "background_class_iou_seed_mean": 0.8778780335191689,
+        "per_seed": [
+          0.8778780335191689
+        ]
+      },
+      "source_run_ids": [
+        "RUN-011"
+      ]
+    },
+    "SegNeXt-MSCAN-L": {
+      "authoritative": {
+        "ci_hi": 0.0046589663721427945,
+        "ci_lo": 0.00423746218120964,
+        "excludes_zero": true,
+        "p": 0.00019998000199980003,
+        "p_source": "frozen:result.p",
+        "point": 0.0043735309301775604
+      },
+      "frozen": {
+        "ci_hi": 0.0046589663721427945,
+        "ci_lo": 0.00423746218120964,
+        "excludes_zero": true,
+        "p": 0.00019998000199980003,
+        "p_source": "frozen:result.p",
+        "point": 0.0043735309301775604
+      },
+      "gate": true,
+      "independent": {
+        "ci_hi": 0.004658966372142794,
+        "ci_lo": 0.0042374621812096966,
+        "excludes_zero": true,
+        "p": 0.00019998000199980003,
+        "point": 0.004373530930177523
+      },
+      "secondary": {
+        "background_class_iou_seed_mean": 0.913008594709653,
+        "per_seed": [
+          0.9147712719542905,
+          0.9096215334635268,
+          0.9146329787111417
+        ]
+      },
+      "source_run_ids": [
+        "RUN-002",
+        "RUN-003",
+        "RUN-004"
+      ]
+    }
+  },
+  "seed": 20260917,
+  "units": "mIoU as fraction",
+  "verdict": "CONFIRMED"
+}

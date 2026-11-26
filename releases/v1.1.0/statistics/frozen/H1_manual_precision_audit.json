@@ -1,0 +1,26 @@
+{
+  "adjudicated_before_unseal": true,
+  "cohen_kappa": 0.8040429042904291,
+  "hard": {
+    "duplicates": 100,
+    "n": 100,
+    "precision": 1.0,
+    "wilson95": {
+      "hi": 1.0,
+      "lo": 0.9630065017930143
+    }
+  },
+  "matches_official_final": true,
+  "n_disagreements": 19,
+  "n_pairs": 200,
+  "raw_agreement": 0.905,
+  "soft": {
+    "duplicates": 20,
+    "n": 100,
+    "precision": 0.2,
+    "wilson95": {
+      "hi": 0.2888291655931589,
+      "lo": 0.1333669333310325
+    }
+  }
+}

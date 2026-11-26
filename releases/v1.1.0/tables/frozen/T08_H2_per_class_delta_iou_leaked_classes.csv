@@ -1,0 +1,135 @@
+baseline,mask_value,class_name,delta_iou_default_minus_sanitized_pts
+DeepLabV3+-R101,1,apple black rot,10.632493
+DeepLabV3+-R101,4,apple scab,20.274918
+DeepLabV3+-R101,6,banana black leaf streak,7.816931
+DeepLabV3+-R101,7,banana bunchy top,12.770667
+DeepLabV3+-R101,8,banana cigar end rot,20.380641
+DeepLabV3+-R101,13,bean mosaic virus,-3.067493
+DeepLabV3+-R101,14,bean rust,8.492984
+DeepLabV3+-R101,15,bell pepper bacterial spot,0.040964
+DeepLabV3+-R101,16,bell pepper blossom end rot,10.287403
+DeepLabV3+-R101,17,bell pepper frogeye leaf spot,0.000000
+DeepLabV3+-R101,18,bell pepper powdery mildew,-5.639054
+DeepLabV3+-R101,23,blueberry scorch,13.934880
+DeepLabV3+-R101,24,broccoli alternaria leaf spot,8.144968
+DeepLabV3+-R101,26,broccoli ring spot,0.000000
+DeepLabV3+-R101,27,cabbage alternaria leaf spot,-0.473511
+DeepLabV3+-R101,28,cabbage black rot,-13.473659
+DeepLabV3+-R101,29,cabbage downy mildew,6.137655
+DeepLabV3+-R101,30,carrot alternaria leaf blight,6.851773
+DeepLabV3+-R101,32,carrot cercospora leaf blight,-10.433846
+DeepLabV3+-R101,33,cauliflower alternaria leaf spot,0.000000
+DeepLabV3+-R101,34,cauliflower bacterial soft rot,1.731639
+DeepLabV3+-R101,35,celery anthracnose,0.000000
+DeepLabV3+-R101,39,citrus canker,8.048840
+DeepLabV3+-R101,41,coffee berry blotch,0.763932
+DeepLabV3+-R101,43,coffee brown eye spot,0.000000
+DeepLabV3+-R101,44,coffee leaf rust,12.615566
+DeepLabV3+-R101,51,cucumber powdery mildew,3.176418
+DeepLabV3+-R101,52,eggplant cercospora leaf spot,9.133613
+DeepLabV3+-R101,55,garlic leaf blight,-15.317978
+DeepLabV3+-R101,56,garlic rust,-5.200233
+DeepLabV3+-R101,58,ginger sheath blight,0.000000
+DeepLabV3+-R101,60,grape downy mildew,6.698908
+DeepLabV3+-R101,61,grape leaf spot,-26.482954
+DeepLabV3+-R101,67,peach brown rot,-3.941955
+DeepLabV3+-R101,70,peach scab,-1.028639
+DeepLabV3+-R101,72,plum brown rot,8.914622
+DeepLabV3+-R101,74,plum pox virus,0.981899
+DeepLabV3+-R101,76,potato early blight,-0.897920
+DeepLabV3+-R101,77,potato late blight,12.228622
+DeepLabV3+-R101,78,raspberry fire blight,6.318872
+DeepLabV3+-R101,81,raspberry yellow rust,11.078605
+DeepLabV3+-R101,82,rice blast,7.649999
+DeepLabV3+-R101,83,rice sheath blight,10.089677
+DeepLabV3+-R101,84,soybean bacterial blight,-8.306221
+DeepLabV3+-R101,86,soybean downy mildew,-3.994830
+DeepLabV3+-R101,87,soybean frog eye leaf spot,3.352634
+DeepLabV3+-R101,88,soybean mosaic,-19.273037
+DeepLabV3+-R101,89,soybean rust,6.417218
+DeepLabV3+-R101,90,squash powdery mildew,11.510907
+DeepLabV3+-R101,93,tobacco blue mold,-3.070010
+DeepLabV3+-R101,94,tobacco brown spot,-0.477482
+DeepLabV3+-R101,95,tobacco frogeye leaf spot,0.000000
+DeepLabV3+-R101,97,tomato bacterial leaf spot,1.292491
+DeepLabV3+-R101,98,tomato early blight,0.968114
+DeepLabV3+-R101,101,tomato mosaic virus,-15.417535
+DeepLabV3+-R101,102,tomato septoria leaf spot,1.760952
+DeepLabV3+-R101,103,tomato yellow leaf curl virus,-0.370150
+DeepLabV3+-R101,104,wheat bacterial leaf streak (black chaff),-0.455415
+DeepLabV3+-R101,105,wheat head scab,-13.181179
+DeepLabV3+-R101,106,wheat leaf rust,13.904087
+DeepLabV3+-R101,107,wheat loose smut,19.095695
+DeepLabV3+-R101,108,wheat powdery mildew,22.005275
+DeepLabV3+-R101,109,wheat septoria blotch,-36.126386
+DeepLabV3+-R101,110,wheat stem rust,-8.309011
+DeepLabV3+-R101,111,wheat stripe rust,32.429100
+DeepLabV3+-R101,112,zucchini bacterial wilt,-5.931234
+DeepLabV3+-R101,114,zucchini powdery mildew,16.570734
+SegNeXt-MSCAN-L,1,apple black rot,4.184768
+SegNeXt-MSCAN-L,4,apple scab,-5.026429
+SegNeXt-MSCAN-L,6,banana black leaf streak,0.285575
+SegNeXt-MSCAN-L,7,banana bunchy top,6.296591
+SegNeXt-MSCAN-L,8,banana cigar end rot,14.819430
+SegNeXt-MSCAN-L,13,bean mosaic virus,-9.832440
+SegNeXt-MSCAN-L,14,bean rust,5.268458
+SegNeXt-MSCAN-L,15,bell pepper bacterial spot,5.646093
+SegNeXt-MSCAN-L,16,bell pepper blossom end rot,2.554333
+SegNeXt-MSCAN-L,17,bell pepper frogeye leaf spot,-0.789983
+SegNeXt-MSCAN-L,18,bell pepper powdery mildew,0.743597
+SegNeXt-MSCAN-L,23,blueberry scorch,-2.206227
+SegNeXt-MSCAN-L,24,broccoli alternaria leaf spot,-11.418601
+SegNeXt-MSCAN-L,26,broccoli ring spot,0.859750
+SegNeXt-MSCAN-L,27,cabbage alternaria leaf spot,0.988589
+SegNeXt-MSCAN-L,28,cabbage black rot,3.956200
+SegNeXt-MSCAN-L,29,cabbage downy mildew,-1.158438
+SegNeXt-MSCAN-L,30,carrot alternaria leaf blight,0.275207
+SegNeXt-MSCAN-L,32,carrot cercospora leaf blight,17.637545
+SegNeXt-MSCAN-L,33,cauliflower alternaria leaf spot,-0.683185
+SegNeXt-MSCAN-L,34,cauliflower bacterial soft rot,11.939535
+SegNeXt-MSCAN-L,35,celery anthracnose,1.016147
+SegNeXt-MSCAN-L,39,citrus canker,0.237173
+SegNeXt-MSCAN-L,41,coffee berry blotch,7.217948
+SegNeXt-MSCAN-L,43,coffee brown eye spot,38.823326
+SegNeXt-MSCAN-L,44,coffee leaf rust,1.788929
+SegNeXt-MSCAN-L,51,cucumber powdery mildew,0.175621
+SegNeXt-MSCAN-L,52,eggplant cercospora leaf spot,3.041470
+SegNeXt-MSCAN-L,55,garlic leaf blight,-29.580634
+SegNeXt-MSCAN-L,56,garlic rust,1.878838
+SegNeXt-MSCAN-L,58,ginger sheath blight,-19.529713
+SegNeXt-MSCAN-L,60,grape downy mildew,4.589512
+SegNeXt-MSCAN-L,61,grape leaf spot,15.160095
+SegNeXt-MSCAN-L,67,peach brown rot,-1.876980
+SegNeXt-MSCAN-L,70,peach scab,13.510002
+SegNeXt-MSCAN-L,72,plum brown rot,4.343619
+SegNeXt-MSCAN-L,74,plum pox virus,13.341943
+SegNeXt-MSCAN-L,76,potato early blight,-0.507928
+SegNeXt-MSCAN-L,77,potato late blight,-4.922618
+SegNeXt-MSCAN-L,78,raspberry fire blight,-4.902350
+SegNeXt-MSCAN-L,81,raspberry yellow rust,-0.009178
+SegNeXt-MSCAN-L,82,rice blast,13.936467
+SegNeXt-MSCAN-L,83,rice sheath blight,-12.041840
+SegNeXt-MSCAN-L,84,soybean bacterial blight,-9.615708
+SegNeXt-MSCAN-L,86,soybean downy mildew,2.607914
+SegNeXt-MSCAN-L,87,soybean frog eye leaf spot,-8.058337
+SegNeXt-MSCAN-L,88,soybean mosaic,5.999330
+SegNeXt-MSCAN-L,89,soybean rust,12.750446
+SegNeXt-MSCAN-L,90,squash powdery mildew,-12.234129
+SegNeXt-MSCAN-L,93,tobacco blue mold,-4.075114
+SegNeXt-MSCAN-L,94,tobacco brown spot,-10.713574
+SegNeXt-MSCAN-L,95,tobacco frogeye leaf spot,-5.916561
+SegNeXt-MSCAN-L,97,tomato bacterial leaf spot,-1.705943
+SegNeXt-MSCAN-L,98,tomato early blight,-1.334076
+SegNeXt-MSCAN-L,101,tomato mosaic virus,11.388175
+SegNeXt-MSCAN-L,102,tomato septoria leaf spot,2.659690
+SegNeXt-MSCAN-L,103,tomato yellow leaf curl virus,3.392490
+SegNeXt-MSCAN-L,104,wheat bacterial leaf streak (black chaff),4.696297
+SegNeXt-MSCAN-L,105,wheat head scab,0.311008
+SegNeXt-MSCAN-L,106,wheat leaf rust,2.070213
+SegNeXt-MSCAN-L,107,wheat loose smut,1.422344
+SegNeXt-MSCAN-L,108,wheat powdery mildew,-1.977076
+SegNeXt-MSCAN-L,109,wheat septoria blotch,2.041727
+SegNeXt-MSCAN-L,110,wheat stem rust,2.837076
+SegNeXt-MSCAN-L,111,wheat stripe rust,-1.139015
+SegNeXt-MSCAN-L,112,zucchini bacterial wilt,-3.199327
+SegNeXt-MSCAN-L,114,zucchini powdery mildew,14.414320

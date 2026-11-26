@@ -1,0 +1,5 @@
+baseline,evaluation_split,run_id,mIoU_disease_pts,ci95_lo,ci95_hi,mIoU_116_pts,note
+DeepLabV3+-R101,corrected 70/10/20 (n=1552),RUN-016,26.651860,24.053715,28.899379,27.169741,descriptive; non-paired (different test sets)
+DeepLabV3+-R101,"released fixed cohort (n=1557), seed 0",RUN-011,31.651149,28.995516,33.664289,32.139294,descriptive; non-paired (different test sets)
+SegNeXt-MSCAN-L,corrected 70/10/20 (n=1552),RUN-015,36.832926,33.593373,39.095530,37.300153,descriptive; non-paired (different test sets)
+SegNeXt-MSCAN-L,"released fixed cohort (n=1557), seed 0",RUN-002,40.932058,38.039349,43.267075,41.371580,descriptive; non-paired (different test sets)

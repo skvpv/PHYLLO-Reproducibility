@@ -1,0 +1,53 @@
+{
+ "partition": "corrected partition v1.1-C \u2014 PROVISIONAL (candidate containment, CR-PHYLLO-R3-01)",
+ "build_status": "BUILT",
+ "manifest_sha256": "65535993c06913d2e360f29fc65f21af315bf92ada9696b7066ec5a6409d0b01",
+ "bootstrap": {
+  "B": 10000,
+  "base_seed": 20260917,
+  "rule": "seed = base if n == 1557 else base + n"
+ },
+ "script_sha256": "e37fe160caede27d10bf4ec4c0a816014f46923b967cfed9cad7eb67dcf0b974",
+ "rows": [
+  {
+   "file": "seed0.npz",
+   "npz_sha256": "7085648a11b9cd1d999d00c5cedbb84c3bf086f26355354206b92aac58914acf",
+   "n_test": 1552,
+   "n_groups": 1546,
+   "stream_seed": 20262469,
+   "disease_mIoU_pts": 33.2247822824585,
+   "image_ci95_pts": [
+    30.759749086333123,
+    36.134906083058524
+   ],
+   "group_ci95_pts": [
+    30.725004392528284,
+    36.13239872697866
+   ],
+   "max_ci_change_pts": 0.034744693804839244,
+   "inclusive_mIoU_pts": 33.71090180282692,
+   "boundary_f1_pts": 31.39013755615341,
+   "nonzero_union_disease_classes": 115
+  },
+  {
+   "file": "seed0.npz",
+   "npz_sha256": "0cb056f54036fe2f679875fb48732a2949985aee0ea13f2ffa36a1fbf99d0fd0",
+   "n_test": 1552,
+   "n_groups": 1546,
+   "stream_seed": 20262469,
+   "disease_mIoU_pts": 23.508361521136717,
+   "image_ci95_pts": [
+    21.486534180435793,
+    26.08628273478551
+   ],
+   "group_ci95_pts": [
+    21.424416604732887,
+    26.223695886383634
+   ],
+   "max_ci_change_pts": 0.13741315159812473,
+   "inclusive_mIoU_pts": 24.052915923479016,
+   "boundary_f1_pts": 22.49407145344645,
+   "nonzero_union_disease_classes": 115
+  }
+ ]
+}

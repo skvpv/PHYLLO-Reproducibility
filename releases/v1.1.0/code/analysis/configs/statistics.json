@@ -1,0 +1,20 @@
+{
+  "B": 10000,
+  "alpha": 0.05,
+  "ci_level": 0.95,
+  "cohort_file": "ARMS__cohort_1557.txt",
+  "cohort_n": 1557,
+  "crosscheck_tol": {
+    "ci": 0.003,
+    "point": 1e-09
+  },
+  "frozen_src": "scripts/frozen_phyllo_src",
+  "h1_frozen_grid_point": "pHash<=3|CLIP>=0.98",
+  "h1_soft_grid_point": "pHash<=9|CLIP>=0.95",
+  "h1_threshold": 0.01,
+  "h2_margin": 0.005,
+  "out_dir": "statistics",
+  "raw_dir": "raw",
+  "require_frozen": true,
+  "seed": 20260917
+}

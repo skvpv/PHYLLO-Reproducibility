@@ -1,0 +1,116 @@
+label,class,test_clip_nn_mean_v1.1,test_clip_nn_mean_v1.0,share_in_groups_ge50
+1,Apple | apple black rot,0.890324,0.886809,0.015873
+2,Apple | apple mosaic virus,0.877765,0.887725,0.0
+3,Apple | apple rust,0.893778,0.895305,0.020408
+4,Apple | apple scab,0.888407,0.876967,0.005952
+5,Banana | banana anthracnose,0.894855,0.889151,0.0
+6,Banana | banana black leaf streak,0.891634,0.894708,0.0
+7,Banana | banana bunchy top,0.866128,0.890638,0.0
+8,Banana | banana cigar end rot,0.864271,0.884686,0.0
+9,Banana | banana cordana leaf spot,0.861767,0.861767,0.0
+10,Banana | banana panama disease,0.892422,0.899285,0.0
+11,Basil | basil downy mildew,0.900631,0.896504,0.0
+12,Bean | bean halo blight,0.907679,0.910802,0.085714
+13,Bean | bean mosaic virus,0.886948,0.894334,0.0
+14,Bean | bean rust,0.914568,0.920581,0.173333
+15,Bell pepper | bell pepper bacterial spot,0.901147,0.911333,0.075472
+16,Bell pepper | bell pepper blossom end rot,0.85736,0.852201,0.0
+17,Bell pepper | bell pepper frogeye leaf spot,0.897623,0.904727,0.083333
+18,Bell pepper | bell pepper powdery mildew,0.914619,0.908374,0.0
+19,Blueberry | blueberry anthracnose,0.825451,0.831687,0.0
+20,Blueberry | blueberry botrytis blight,0.869286,0.869286,0.0
+21,Blueberry | blueberry mummy berry,0.900113,0.904637,0.0
+22,Blueberry | blueberry rust,0.893436,0.919542,0.060606
+23,Blueberry | blueberry scorch,0.861881,0.861881,0.0
+24,Broccoli | broccoli alternaria leaf spot,0.910704,0.914242,0.1
+25,Broccoli | broccoli downy mildew,0.881552,0.904686,0.0
+26,Broccoli | broccoli ring spot,0.901976,0.914518,0.0
+27,Cabbage | cabbage alternaria leaf spot,0.918822,0.898004,0.051282
+28,Cabbage | cabbage black rot,0.893987,0.900846,0.0
+29,Cabbage | cabbage downy mildew,0.915671,0.922707,0.020408
+30,Carrot | carrot alternaria leaf blight,0.891588,0.900759,0.0
+31,Carrot | carrot cavity spot,0.856779,0.852093,0.0
+32,Carrot | carrot cercospora leaf blight,0.87459,0.892145,0.0
+33,Cauliflower | cauliflower alternaria leaf spot,0.905702,0.899216,0.029412
+34,Cauliflower | cauliflower bacterial soft rot,0.848543,0.825341,0.0
+35,Celery | celery anthracnose,0.836009,0.836009,0.0
+36,Celery | celery early blight,0.90432,0.908027,0.0
+37,Cherry | cherry leaf spot,0.892393,0.916738,0.060606
+38,Cherry | cherry powdery mildew,0.886989,0.885956,0.0
+39,Citrus | citrus canker,0.891998,0.899588,0.03096
+40,Citrus | citrus greening disease,0.885594,0.893178,0.0
+41,Coffee | coffee berry blotch,0.881013,0.895987,0.0
+42,Coffee | coffee black rot,0.895325,0.891379,0.0
+43,Coffee | coffee brown eye spot,0.907803,0.923373,0.0
+44,Coffee | coffee leaf rust,0.889772,0.891571,0.0
+45,Corn | corn gray leaf spot,0.920559,0.925985,0.157895
+46,Corn | corn northern leaf blight,0.892216,0.909105,0.043478
+47,Corn | corn rust,0.913079,0.928219,0.175
+48,Corn | corn smut,0.84295,0.841995,0.0
+49,Cucumber | cucumber angular leaf spot,0.910738,0.921255,0.067568
+50,Cucumber | cucumber bacterial wilt,0.892394,0.889517,0.0
+51,Cucumber | cucumber powdery mildew,0.90873,0.911238,0.0
+52,Eggplant | eggplant cercospora leaf spot,0.934,0.931072,0.210526
+53,Eggplant | eggplant phomopsis fruit rot,0.788309,0.804309,0.0
+54,Eggplant | eggplant phytophthora blight,0.898888,0.901353,0.0
+55,Garlic | garlic leaf blight,0.912013,0.911689,0.025316
+56,Garlic | garlic rust,0.917705,0.92275,0.1125
+57,Ginger | ginger leaf spot,0.906741,0.91484,0.0
+58,Ginger | ginger sheath blight,0.900051,0.903718,0.016949
+59,Grape | grape black rot,0.893541,0.890732,0.0
+60,Grape | grape downy mildew,0.896844,0.89572,0.0
+61,Grape | grape leaf spot,0.904206,0.904702,0.0
+62,Grape | grapevine leafroll disease,0.883933,0.882019,0.0
+63,Lettuce | lettuce downy mildew,0.894991,0.897535,0.0
+64,Lettuce | lettuce mosaic virus,0.901742,0.905754,0.0
+65,Maple | maple tar spot,0.902051,0.917533,0.0
+66,Peach | peach anthracnose,0.866592,0.851955,0.0
+67,Peach | peach brown rot,0.865642,0.886625,0.0
+68,Peach | peach leaf curl,0.878164,0.879068,0.0
+69,Peach | peach rust,0.910543,0.910543,0.0
+70,Peach | peach scab,0.859216,0.874418,0.0
+71,Plum | plum bacterial spot,0.921761,0.926447,0.0
+72,Plum | plum brown rot,0.875604,0.87847,0.0
+73,Plum | plum pocket disease,0.870274,0.865067,0.0
+74,Plum | plum pox virus,0.850123,0.850123,0.0
+75,Plum | plum rust,0.892172,0.908179,0.058824
+76,Potato | potato early blight,0.897585,0.904345,0.0
+77,Potato | potato late blight,0.912565,0.913613,0.0
+78,Raspberry | raspberry fire blight,0.864707,0.866934,0.0
+79,Raspberry | raspberry gray mold,0.87673,0.907609,0.0
+80,Raspberry | raspberry leaf spot,0.863571,0.863571,0.0
+81,Raspberry | raspberry yellow rust,0.894,0.89316,0.0
+82,Rice | rice blast,0.878256,0.879177,0.02
+83,Rice | rice sheath blight,0.90727,0.909068,0.0
+84,Soybean | soybean bacterial blight,0.921775,0.935133,0.42623
+85,Soybean | soybean brown spot,0.894597,0.924718,0.163636
+86,Soybean | soybean downy mildew,0.905446,0.899998,0.197368
+87,Soybean | soybean frog eye leaf spot,0.921559,0.933894,0.326797
+88,Soybean | soybean mosaic,0.865714,0.841053,0.0
+89,Soybean | soybean rust,0.900098,0.900368,0.212121
+90,Squash | squash powdery mildew,0.91164,0.909862,0.0
+91,Strawberry | strawberry anthracnose,0.836758,0.836758,0.0
+92,Strawberry | strawberry leaf scorch,0.932156,0.932156,0.0
+93,Tobacco | tobacco blue mold,0.92489,0.912489,0.0
+94,Tobacco | tobacco brown spot,0.899771,0.898975,0.04
+95,Tobacco | tobacco frogeye leaf spot,0.927144,0.920973,0.052632
+96,Tobacco | tobacco mosaic virus,0.920675,0.921883,0.0
+97,Tomato | tomato bacterial leaf spot,0.919207,0.923702,0.122222
+98,Tomato | tomato early blight,0.879324,0.907011,0.03268
+99,Tomato | tomato late blight,0.883623,0.882728,0.0
+100,Tomato | tomato leaf mold,0.910843,0.92631,0.0
+101,Tomato | tomato mosaic virus,0.874811,0.901776,0.0
+102,Tomato | tomato septoria leaf spot,0.906552,0.915518,0.181818
+103,Tomato | tomato yellow leaf curl virus,0.894349,0.883049,0.0
+104,Wheat | wheat bacterial leaf streak (black chaff),0.927724,0.932918,0.180723
+105,Wheat | wheat head scab,0.90599,0.924668,0.327511
+106,Wheat | wheat leaf rust,0.910334,0.916284,0.173333
+107,Wheat | wheat loose smut,0.897752,0.905512,0.007092
+108,Wheat | wheat powdery mildew,0.906717,0.919678,0.039326
+109,Wheat | wheat septoria blotch,0.910647,0.926498,0.176056
+110,Wheat | wheat stem rust,0.904859,0.909733,0.134831
+111,Wheat | wheat stripe rust,0.911643,0.934122,0.254386
+112,Zucchini | zucchini bacterial wilt,0.885273,0.886605,0.0
+113,Zucchini | zucchini downy mildew,0.916032,0.929936,0.151515
+114,Zucchini | zucchini powdery mildew,0.899899,0.893424,0.0
+115,Zucchini | zucchini yellow mosaic virus,0.910071,0.908686,0.0

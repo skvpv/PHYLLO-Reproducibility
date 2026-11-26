@@ -1,0 +1,4 @@
+quantity,value_percent,wilson95_lo_percent,wilson95_hi_percent,count,n,source_run_ids
+hard cross-split leakage rate (primary),11.915439,10.401052,13.616809,186,1561,RUN-001
+soft-threshold leakage rate (secondary),20.243434,,,,1561,RUN-001
+intra-train duplicate-affected rate (secondary),11.645239,,,625,,RUN-001

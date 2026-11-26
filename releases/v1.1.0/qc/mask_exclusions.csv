@@ -1,0 +1,13 @@
+key,original_split,mask_file,metadata_index,expected_value,observed_value
+test/broccoli_alternaria_leaf_spot_Bing_0021.jpg,test,broccoli_alternaria_leaf_spot_Bing_0021.png,23,24,25
+test/broccoli_alternaria_leaf_spot_Bing_0045.jpg,test,broccoli_alternaria_leaf_spot_Bing_0045.png,23,24,25
+test/broccoli_alternaria_leaf_spot_Bing_0054.jpg,test,broccoli_alternaria_leaf_spot_Bing_0054.png,23,24,25
+test/wheat_head_scab_Bing_0287.jpg,test,wheat_head_scab_Bing_0287.png,104,105,106
+train/bean_mosaic_virus_23.jpg,train,bean_mosaic_virus_23.png,12,13,82
+train/blueberry_mummy_berry_Bing_0058.jpg,train,blueberry_mummy_berry_Bing_0058.png,20,21,22
+train/broccoli_alternaria_leaf_spot_Bing_0012.jpg,train,broccoli_alternaria_leaf_spot_Bing_0012.png,23,24,25
+train/broccoli_alternaria_leaf_spot_Bing_0035.jpg,train,broccoli_alternaria_leaf_spot_Bing_0035.png,23,24,25
+train/broccoli_alternaria_leaf_spot_Bing_0039.jpg,train,broccoli_alternaria_leaf_spot_Bing_0039.png,23,24,25
+train/cucumber_powdery_mildew_google_0067.jpg,train,cucumber_powdery_mildew_google_0067.png,50,51,49
+train/eggplant_phomopsis_fruit_rot_Bing_0015.jpg,train,eggplant_phomopsis_fruit_rot_Bing_0015.png,52,53,54
+train/ginger_leaf_spot_17.jpg,train,ginger_leaf_spot_17.png,56,57,58
